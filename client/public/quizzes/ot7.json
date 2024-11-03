@@ -1,0 +1,552 @@
+{
+  "id": "ot7",
+  "title": "Ocean Diver Knowledge Review - OT7",
+  "description": "Problem Management",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which of the following benefits is true of shore diving rather than boat diving?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Access to remote coastal sites"
+        },
+        {
+          "id": 2,
+          "text": "Access to offshore reefs and wrecks"
+        },
+        {
+          "id": 3,
+          "text": "Usually no requirement for launch facilities"
+        },
+        {
+          "id": 4,
+          "text": "Increased safety"
+        },
+        {
+          "id": 5,
+          "text": "Increased scope for adventure"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 2,
+      "text": "When diving from a RIB, it is usual to suit up _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "On land, before leaving the shore"
+        },
+        {
+          "id": 2,
+          "text": "During the trip to the site"
+        },
+        {
+          "id": 3,
+          "text": "On arrival at the site"
+        },
+        {
+          "id": 4,
+          "text": "Sitting in the boat before leaving the shore"
+        },
+        {
+          "id": 5,
+          "text": "In two waves, at the site."
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 3,
+      "text": "When diving from a RIB, you may need to take your basic equipment and accessories in a _______",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Large plastic crate"
+        },
+        {
+          "id": 2,
+          "text": "Normal diving bag"
+        },
+        {
+          "id": 3,
+          "text": "Stackable plastic storage trunk"
+        },
+        {
+          "id": 4,
+          "text": "Small dive bag"
+        },
+        {
+          "id": 5,
+          "text": "Carrier bag"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 4,
+      "text": "Which of the following are commonly encountered in freshwater quarries and lakes? Tick all that apply",
+      "answers": [
+        {
+          "id": 1,
+          "text": "silty bottom"
+        },
+        {
+          "id": 2,
+          "text": "large waves"
+        },
+        {
+          "id": 3,
+          "text": "cold even in summer"
+        },
+        {
+          "id": 4,
+          "text": "deep water close to shore"
+        },
+        {
+          "id": 5,
+          "text": "strong currents"
+        },
+        {
+          "id": 6,
+          "text": "ground swellllll"
+        },
+        {
+          "id": 7,
+          "text": "poor visibility after rain"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        3,
+        4,
+        7
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 5,
+      "text": "Waves increase in height _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "When they move into deeper water"
+        },
+        {
+          "id": 2,
+          "text": "When they move into shallow water"
+        },
+        {
+          "id": 3,
+          "text": "When the wind decreases in strength"
+        },
+        {
+          "id": 4,
+          "text": "After they have broken"
+        },
+        {
+          "id": 5,
+          "text": "In fine weather"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 6,
+      "text": "When diving from a boat, rough seas can make it difficult to _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Enter via a giant stride"
+        },
+        {
+          "id": 2,
+          "text": "Enter via a forward roll"
+        },
+        {
+          "id": 3,
+          "text": "Exit via the ladder"
+        },
+        {
+          "id": 4,
+          "text": "Enter via a backward roll"
+        },
+        {
+          "id": 5,
+          "text": "Dive singly, rest acting as surface cover"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 7,
+      "text": "A plankton bloom is likely to make the underwater visibility _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "unchanged"
+        },
+        {
+          "id": 2,
+          "text": "worse"
+        },
+        {
+          "id": 3,
+          "text": "better"
+        },
+        {
+          "id": 4,
+          "text": "zero"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 8,
+      "text": "8. When diving in a current, the easiest way to cope is to _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Fin against it"
+        },
+        {
+          "id": 2,
+          "text": "Fin across it"
+        },
+        {
+          "id": 3,
+          "text": "Go with it"
+        },
+        {
+          "id": 4,
+          "text": "Abandon the dive"
+        },
+        {
+          "id": 5,
+          "text": "Hold on to a suitable rock."
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 9,
+      "text": "When shore diving in the sea, which of the following could make it difficult or impossible to exit at the point where you entered?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Current"
+        },
+        {
+          "id": 2,
+          "text": "Rise and fall of the tide"
+        },
+        {
+          "id": 3,
+          "text": "Waves"
+        },
+        {
+          "id": 4,
+          "text": "Undertow"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        4,
+        5
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 10,
+      "text": "Which of the following are recommended for Marine Conservation.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Hold onto the reef to simplify buoyancy control"
+        },
+        {
+          "id": 2,
+          "text": "Take shellfish if you get the chance – you can’t eat photographs and memories!"
+        },
+        {
+          "id": 3,
+          "text": "Look but don’t touch"
+        },
+        {
+          "id": 4,
+          "text": "Don’t worry about kicking up sediment, it will soon be washed away"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 11,
+      "text": "To avoid seasickness, you should _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Stay downwind of the diesel exhaust"
+        },
+        {
+          "id": 2,
+          "text": "Be near the centre of the boat looking at the horizon"
+        },
+        {
+          "id": 3,
+          "text": "Eat a hearty fried breakfast before sailing"
+        },
+        {
+          "id": 4,
+          "text": "Stay in the toilet until it is time to kit up"
+        },
+        {
+          "id": 5,
+          "text": "Stay below decks until it is time to kit up"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 12,
+      "text": "Why would a diver choose to dive at night?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Can see sea creatures venturing out to feed"
+        },
+        {
+          "id": 2,
+          "text": "Can focus on a particular area in detail"
+        },
+        {
+          "id": 3,
+          "text": "Use of a torch brings colour to play"
+        },
+        {
+          "id": 4,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 13,
+      "text": "What are the potential risks in night diving (that don't apply to diving in general)?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Nitrogen narcosis"
+        },
+        {
+          "id": 2,
+          "text": "Cold"
+        },
+        {
+          "id": 3,
+          "text": "Shark attack"
+        },
+        {
+          "id": 4,
+          "text": "Separation and disorientation"
+        },
+        {
+          "id": 5,
+          "text": "Torch failure"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 14,
+      "text": "What is the general rule for snorkel buddy diving?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "One out, all out"
+        },
+        {
+          "id": 2,
+          "text": "One up, one down"
+        },
+        {
+          "id": 3,
+          "text": "All for one, and one for all"
+        },
+        {
+          "id": 4,
+          "text": "Two’s company, three’s a crowd"
+        },
+        {
+          "id": 5,
+          "text": "One for the road"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 15,
+      "text": "What should you beware of when diving on holiday?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Dehydration in hot climates – drink plenty of water"
+        },
+        {
+          "id": 2,
+          "text": "Diving signals may be different"
+        },
+        {
+          "id": 3,
+          "text": "Going too deep or staying down too long in warm clear water"
+        },
+        {
+          "id": 4,
+          "text": "Sunburn while snorkelling"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 16,
+      "text": "If you find/salvage an article from a shipwreck you must _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Give it to your D. O."
+        },
+        {
+          "id": 2,
+          "text": "Keep it for yourself"
+        },
+        {
+          "id": 3,
+          "text": "Give it to the Branch"
+        },
+        {
+          "id": 4,
+          "text": "Give it to the local museum"
+        },
+        {
+          "id": 5,
+          "text": "Report it to the Receiver of Wreck"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 17,
+      "text": "Caution! Corroding metal plates on wrecks may be _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "liable to collapse"
+        },
+        {
+          "id": 2,
+          "text": "as sharp as a knife"
+        },
+        {
+          "id": 3,
+          "text": "valuable"
+        },
+        {
+          "id": 4,
+          "text": "worth lifting"
+        },
+        {
+          "id": 5,
+          "text": "toxic"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 18,
+      "text": "It is recommended that Ocean Divers do not _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Enter inside a wreck"
+        },
+        {
+          "id": 2,
+          "text": "Wreck dive"
+        },
+        {
+          "id": 3,
+          "text": "Night Dive"
+        },
+        {
+          "id": 4,
+          "text": "Drift dive"
+        },
+        {
+          "id": 5,
+          "text": "Survey wrecks"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    }
+  ]
+}

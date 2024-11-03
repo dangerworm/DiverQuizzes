@@ -1,0 +1,393 @@
+{
+  "id": "ot3",
+  "title": "Ocean Diver Knowledge Review - OT3",
+  "description": "The Body and Diving",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which of the following is recommended dive practice?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Diving with ear plugs."
+        },
+        {
+          "id": 2,
+          "text": "Descending further when pain is felt in the ears."
+        },
+        {
+          "id": 3,
+          "text": "Diving with hay fever or a cold."
+        },
+        {
+          "id": 4,
+          "text": "Aborting the dive if ears will not clear."
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 2,
+      "text": "The human body contains both flexible and rigid air_______filled spaces. Failure to _______ pressure within the body's air spaces will cause damage to tissues.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "equalise"
+        },
+        {
+          "id": 2,
+          "text": "contain"
+        },
+        {
+          "id": 3,
+          "text": "expand"
+        },
+        {
+          "id": 4,
+          "text": "reduce"
+        },
+        {
+          "id": 5,
+          "text": "increase"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 3,
+      "text": "Water pressure on the ear drum is equalised by allowing air up the _______ into the middle ear cavity.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Eustachian tube"
+        },
+        {
+          "id": 2,
+          "text": "Outer ear"
+        },
+        {
+          "id": 3,
+          "text": "Carotid sinus"
+        },
+        {
+          "id": 4,
+          "text": "Bronchus"
+        },
+        {
+          "id": 5,
+          "text": "Alveoli"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 4,
+      "text": "If the weight of an object exceeds the upthrust from the water it displaces, it will _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "float"
+        },
+        {
+          "id": 2,
+          "text": "fly"
+        },
+        {
+          "id": 3,
+          "text": "capsize"
+        },
+        {
+          "id": 4,
+          "text": "sink"
+        },
+        {
+          "id": 5,
+          "text": "swim"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 5,
+      "text": "It is desirable for a diver to be able to make small up and down changes of depth during the dive by simply breathing in or breathing out. The starting point for this is _______. See Page 34 Student Workbook.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "negative buoyancy"
+        },
+        {
+          "id": 2,
+          "text": "positive buoyancy"
+        },
+        {
+          "id": 3,
+          "text": "neutral buoyancy"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 6,
+      "text": "Sea water is slightly more dense than fresh water. This means that a diver who is neutrally buoyant in fresh water will find himself _______ buoyant in the sea.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "negatively"
+        },
+        {
+          "id": 2,
+          "text": "positively"
+        },
+        {
+          "id": 3,
+          "text": "neutrally"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 7,
+      "text": "A _______ is usually necessary to counteract the buoyancy the diver's body, suit and SCUBA equipment.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "diving knife"
+        },
+        {
+          "id": 2,
+          "text": "weight belt"
+        },
+        {
+          "id": 3,
+          "text": "harness"
+        },
+        {
+          "id": 4,
+          "text": "SMB"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 8,
+      "text": "The stimulus to breathe is triggered by the build up and need to expel _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Oxygen"
+        },
+        {
+          "id": 2,
+          "text": "Nitrogen"
+        },
+        {
+          "id": 3,
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": 4,
+          "text": "Water"
+        },
+        {
+          "id": 5,
+          "text": "Hormones"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 9,
+      "text": "Which of the following statements about hyperventilation are true?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "It greatly increases the amount of oxygen in the blood, enabling snorkel divers to stay down longer."
+        },
+        {
+          "id": 2,
+          "text": "It reduces the amount of carbon dioxide in the blood to a low level."
+        },
+        {
+          "id": 3,
+          "text": "A snorkel diver who hyperventilates will be forced to surface by the urge to breathe."
+        },
+        {
+          "id": 4,
+          "text": "A diver who suffers'shallow water blackout'will float safely to the surface."
+        },
+        {
+          "id": 5,
+          "text": "A breath-hold diver should start the dive in a relaxed state and should take no more that two or three medium breaths"
+        },
+        {
+          "id": 6,
+          "text": "Hyperventilation before breath hold diving is dangerous"
+        }
+      ],
+      "correctAnswerIds": [
+        2,
+        5,
+        6
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 10,
+      "text": "The greatest heat loss from the body is through _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "The head and face"
+        },
+        {
+          "id": 2,
+          "text": "The front of the chest"
+        },
+        {
+          "id": 3,
+          "text": "Under the armpits"
+        },
+        {
+          "id": 4,
+          "text": "The groin"
+        },
+        {
+          "id": 5,
+          "text": "The hands and feet"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 11,
+      "text": "Below what temperature would most divers require at least a wetsuit for heat insulation?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "35°C"
+        },
+        {
+          "id": 2,
+          "text": "27°C"
+        },
+        {
+          "id": 3,
+          "text": "21°C"
+        },
+        {
+          "id": 4,
+          "text": "15°C"
+        },
+        {
+          "id": 5,
+          "text": "10°C"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 12,
+      "text": "Which of the following statements about diving suits are correct?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "You need to wear strap fins with a drysuit"
+        },
+        {
+          "id": 2,
+          "text": "Drysuits are fitted with devices to allow the introduction and expulsion of air"
+        },
+        {
+          "id": 3,
+          "text": "Wetsuits should be a loose fit"
+        },
+        {
+          "id": 4,
+          "text": "The inside of a drysuit does not require cleaning because it does not get wet"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 13,
+      "text": "Which of the following can lead to exhaustion while diving?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Failure to attain neutral buoyancy"
+        },
+        {
+          "id": 2,
+          "text": "Getting cold"
+        },
+        {
+          "id": 3,
+          "text": "Lack of physical fitness"
+        },
+        {
+          "id": 4,
+          "text": "Vegetarianism"
+        },
+        {
+          "id": 5,
+          "text": "Hangover"
+        },
+        {
+          "id": 6,
+          "text": "Relaxation"
+        },
+        {
+          "id": 7,
+          "text": "Anxiety"
+        },
+        {
+          "id": 8,
+          "text": "Hard finning"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        8
+      ],
+      "isMultipleChoice": true
+    }
+  ]
+}

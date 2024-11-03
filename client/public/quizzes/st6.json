@@ -1,0 +1,331 @@
+{
+  "id": "st6",
+  "title": "Sports Diver Knowledge Review - ST6",
+  "description": "Advanced Rescue Skills",
+  "questions": [
+    {
+      "id": 1,
+      "text": "During the club meeting you overhear Jane and Dave discussing dive leading. Jane says if you are a Sports Diver diving with an Advanced Diver who doesn't know the site but you know it well, you can lead. Dave says that passing on good diving practice is an instructor's job, not a dive leader's. Who is correct?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Jane"
+        },
+        {
+          "id": 2,
+          "text": "Dave"
+        },
+        {
+          "id": 3,
+          "text": "Both of them"
+        },
+        {
+          "id": 4,
+          "text": "Neither of them"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 2,
+      "text": "During the overheard conversation from the previous question, Jane also says that the Dive Manager decides the maximum depth of each buddy pair's dive. Dave says that only Dive Leaders and above can lead Ocean Divers. Who is correct?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Jane"
+        },
+        {
+          "id": 2,
+          "text": "Dave"
+        },
+        {
+          "id": 3,
+          "text": "Both of them"
+        },
+        {
+          "id": 4,
+          "text": "Neither of them"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 3,
+      "text": "Jane's and Dave's overheard conversation from the previous questions continues. Jane reckons that if you always dive with the same buddy, and you both always use the same kit, you don't need to do a buddy check. Dave insists that the dive leader should check that their buddy has an adequate breathing gas supply, no matter how highly qualified and experienced the buddy is: even a National Instructor! Who is correct?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Jane"
+        },
+        {
+          "id": 2,
+          "text": "Dave"
+        },
+        {
+          "id": 3,
+          "text": "Both of them"
+        },
+        {
+          "id": 4,
+          "text": "Neither of them"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 4,
+      "text": "Well_______trained Sports Divers should not suffer from poor buoyancy control, dangling pieces of equipment, incompetence in using new equipment, or kicking up silt due to bad finning or trim. But if a dive leader did exhibit ANY of these faults on a normal dive, what effect would it have on their buddy?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Elevated risk of buoyant ascent"
+        },
+        {
+          "id": 2,
+          "text": "Elevated risk of entanglement"
+        },
+        {
+          "id": 3,
+          "text": "Risk of damage to the environment"
+        },
+        {
+          "id": 4,
+          "text": "Loss of confidence in the their dive leader"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 5,
+      "text": "What must you do if you recover wreckage?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Report it to the Diving Officer"
+        },
+        {
+          "id": 2,
+          "text": "Report it to the Police"
+        },
+        {
+          "id": 3,
+          "text": "Report it to the Receiver of Wreck"
+        },
+        {
+          "id": 4,
+          "text": "Nothing, unless it is less than 100 years old"
+        },
+        {
+          "id": 5,
+          "text": "Throw it back, all wreck belongs to someone and to removing it will result in prosecution if you are caught"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 6,
+      "text": "You overhear Dave and Jane again. Jane reckons that many experienced divers are overcautious: you should push them to do dives that they think are a bit too challenging for them, otherwise they never improve. Dave thinks that it is best to extend your own experience gradually. Who is right?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Dave"
+        },
+        {
+          "id": 2,
+          "text": "Jane"
+        },
+        {
+          "id": 3,
+          "text": "Both of them"
+        },
+        {
+          "id": 4,
+          "text": "Neither of them"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 7,
+      "text": "Closed circuit rebreathers _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Never emit bubbles"
+        },
+        {
+          "id": 2,
+          "text": "Emit bubbles during the ascent"
+        },
+        {
+          "id": 3,
+          "text": "Require excess gas to be vented off periodically, at all stages of the dive"
+        },
+        {
+          "id": 4,
+          "text": "Provide a constant nitrox mix throughout the dive"
+        },
+        {
+          "id": 5,
+          "text": "Look after themselves"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 8,
+      "text": "What are the advantages of closed circuit rebreathers compared with open circuit equipment?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Lower running costs"
+        },
+        {
+          "id": 2,
+          "text": "Ease of use"
+        },
+        {
+          "id": 3,
+          "text": "Extended dive times"
+        },
+        {
+          "id": 4,
+          "text": "Efficient gas utilisation"
+        },
+        {
+          "id": 5,
+          "text": "No bailout required"
+        },
+        {
+          "id": 6,
+          "text": "No bubbles to frighten marine life"
+        },
+        {
+          "id": 7,
+          "text": "Lower purchase cost"
+        }
+      ],
+      "correctAnswerIds": [
+        3,
+        4,
+        6
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 9,
+      "text": "Which of the following are acceptable when an open circuit (OC) diver is diving with a rebreather (RB) diver? See Student Notes pp106_______107",
+      "answers": [
+        {
+          "id": 1,
+          "text": "A Dive Leader using a rebreather takes a Sports Diver on a depth progression dive to 35 metres"
+        },
+        {
+          "id": 2,
+          "text": "The dive plan must be based on the decompression schedule and MOD of the OC diver"
+        },
+        {
+          "id": 3,
+          "text": "If this is the first time the OC diver has dived with an RB buddy, the RB diver must explain how to perform a rescue"
+        },
+        {
+          "id": 4,
+          "text": "The OC diver must be able to recognise underwater problems pertinent to RB divers"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 10,
+      "text": "The next grade after Sports Diver in the Diver Training Programme is _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Advanced Nitrox Diver"
+        },
+        {
+          "id": 2,
+          "text": "Sports Mixed Gas Diver"
+        },
+        {
+          "id": 3,
+          "text": "Dive Leader"
+        },
+        {
+          "id": 4,
+          "text": "CCR Diver"
+        },
+        {
+          "id": 5,
+          "text": "Open Water Instructor"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 11,
+      "text": "As a Sports Diver, and if you are interested in instructing, you can begin training as a BSAC Instructor by attending the _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Instructor Foundation Course"
+        },
+        {
+          "id": 2,
+          "text": "Instructor Induction Programme"
+        },
+        {
+          "id": 3,
+          "text": "Open Water Instructor Course"
+        },
+        {
+          "id": 4,
+          "text": "Theory Instructor Examination"
+        },
+        {
+          "id": 5,
+          "text": "Practical Instructor Examination"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    }
+  ]
+}

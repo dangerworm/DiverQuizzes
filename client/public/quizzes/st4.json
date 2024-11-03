@@ -1,0 +1,577 @@
+{
+  "id": "st4",
+  "title": "Sports Diver Knowledge Review - ST4",
+  "description": "Seamanship and Navigation",
+  "questions": [
+    {
+      "id": 1,
+      "text": "The partial pressure of nitrogen in a breath taken during a dive on air is 2.37 bar. What is the depth?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "10.0 m"
+        },
+        {
+          "id": 2,
+          "text": "12.37 m"
+        },
+        {
+          "id": 3,
+          "text": "20.0 m"
+        },
+        {
+          "id": 4,
+          "text": "23.7 m"
+        },
+        {
+          "id": 5,
+          "text": "It is not possible to determine the depth from the information given"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 2,
+      "text": "What is the upper limit of partial pressure of oxygen for BSAC divers (without additional technical qualifications)?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "No limit: oxygen is beneficial to divers"
+        },
+        {
+          "id": 2,
+          "text": "21%"
+        },
+        {
+          "id": 3,
+          "text": "40%"
+        },
+        {
+          "id": 4,
+          "text": "1.0 bar"
+        },
+        {
+          "id": 5,
+          "text": "1.4 bar"
+        },
+        {
+          "id": 6,
+          "text": "1.6 bar"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 3,
+      "text": "Use the BSAC Nitrox Tables to determine the partial pressure of oxygen at a depth of 25 metres for nitrox 25%.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "0.85"
+        },
+        {
+          "id": 2,
+          "text": "0.875"
+        },
+        {
+          "id": 3,
+          "text": "0.93"
+        },
+        {
+          "id": 4,
+          "text": "1.00"
+        },
+        {
+          "id": 5,
+          "text": "1.40"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 4,
+      "text": "Calculate the partial pressure of oxygen at a depth of 25 metres for nitrox 25%. Do not use tables.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "0.85"
+        },
+        {
+          "id": 2,
+          "text": "0.875"
+        },
+        {
+          "id": 3,
+          "text": "0.93"
+        },
+        {
+          "id": 4,
+          "text": "1.00"
+        },
+        {
+          "id": 5,
+          "text": "1.40"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 5,
+      "text": "You are going to dive an intact upright wreck which lies in 32 metres, with its highest point at 18m. What mix will allow you the longest safe dive time while visiting the whole of the wreck including the propellers and rudder?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "air"
+        },
+        {
+          "id": 2,
+          "text": "nitrox 30%"
+        },
+        {
+          "id": 3,
+          "text": "nitrox 31%"
+        },
+        {
+          "id": 4,
+          "text": "nitrox 32%"
+        },
+        {
+          "id": 5,
+          "text": "nitrox 33%"
+        },
+        {
+          "id": 6,
+          "text": "nitrox 34%"
+        },
+        {
+          "id": 7,
+          "text": "nitrox 35%"
+        },
+        {
+          "id": 8,
+          "text": "nitrox 36%"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 6,
+      "text": "Which of the following are effects of nitrogen narcosis?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Jane"
+        },
+        {
+          "id": 2,
+          "text": "Dave"
+        },
+        {
+          "id": 3,
+          "text": "Both Dave and Jane"
+        },
+        {
+          "id": 4,
+          "text": "Neither of them"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 7,
+      "text": "Which of the following factors might contribute to nitrogen narcosis, or make it worse. Tick all that are relevant.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Quick response to buddy signals"
+        },
+        {
+          "id": 2,
+          "text": "Making errors when reading gauges and making choices"
+        },
+        {
+          "id": 3,
+          "text": "Being very alert"
+        },
+        {
+          "id": 4,
+          "text": "Sticking to the agreed dive plan"
+        },
+        {
+          "id": 5,
+          "text": "Feeling confident"
+        },
+        {
+          "id": 6,
+          "text": "Continually monitoring your buddy for narcosis signs"
+        },
+        {
+          "id": 7,
+          "text": "Feeling dizzy, seeing stars, hallucinations"
+        },
+        {
+          "id": 8,
+          "text": "Task fixation"
+        }
+      ],
+      "correctAnswerIds": [
+        2,
+        5,
+        7,
+        8
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 8,
+      "text": "Which one of the following factors MUST be present for the effects of nitrogen narcosis to be noticed?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Depths less than 20m"
+        },
+        {
+          "id": 2,
+          "text": "Depths over 30m"
+        },
+        {
+          "id": 3,
+          "text": "Using nitrox 32% instead of air"
+        },
+        {
+          "id": 4,
+          "text": "Hard work underwater"
+        },
+        {
+          "id": 5,
+          "text": "Darkness"
+        },
+        {
+          "id": 6,
+          "text": "Cold"
+        },
+        {
+          "id": 7,
+          "text": "Prior consumption of alcohol"
+        },
+        {
+          "id": 8,
+          "text": "Wearing a comfortable new drysuit"
+        },
+        {
+          "id": 9,
+          "text": "Using nitrox 36% instead of nitrox 32%"
+        }
+      ],
+      "correctAnswerIds": [
+        2,
+        4,
+        5,
+        6,
+        7
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 9,
+      "text": "Which of the following are recommended ways to deal with the effects of nitrogen narcosis?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Depths less than 10m"
+        },
+        {
+          "id": 2,
+          "text": "Depths of about 30m or more"
+        },
+        {
+          "id": 3,
+          "text": "Using nitrox 32% instead of air"
+        },
+        {
+          "id": 4,
+          "text": "Hard work underwater"
+        },
+        {
+          "id": 5,
+          "text": "Darkness"
+        },
+        {
+          "id": 6,
+          "text": "Cold"
+        },
+        {
+          "id": 7,
+          "text": "Prior consumption of alcohol"
+        },
+        {
+          "id": 8,
+          "text": "Wearing a comfortable new drysuit"
+        },
+        {
+          "id": 9,
+          "text": "Using nitrox 36% instead of nitrox 32%"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 10,
+      "text": "What depth does BSAC recommend as the absolute limit for air diving?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Rapid descent"
+        },
+        {
+          "id": 2,
+          "text": "Physical fitness"
+        },
+        {
+          "id": 3,
+          "text": "Mental fitness"
+        },
+        {
+          "id": 4,
+          "text": "Ascend to a shallower depth"
+        },
+        {
+          "id": 5,
+          "text": "Avoid task fixation"
+        },
+        {
+          "id": 6,
+          "text": "Progressive build-up of depth experience"
+        },
+        {
+          "id": 7,
+          "text": "Monitor your buddy closely"
+        }
+      ],
+      "correctAnswerIds": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 11,
+      "text": "CNS toxicity can be caused by _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "20 metres"
+        },
+        {
+          "id": 2,
+          "text": "35 metres"
+        },
+        {
+          "id": 3,
+          "text": "40 metres"
+        },
+        {
+          "id": 4,
+          "text": "50 metres"
+        },
+        {
+          "id": 5,
+          "text": "60 metres"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 12,
+      "text": "If your CNS% after your first dive was 22.44% what should you consider it to be at the start of your next dive 3 hours later?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Using air as a breathing gas in preference to nitrox"
+        },
+        {
+          "id": 2,
+          "text": "Breathing high partial pressures of nitrogen"
+        },
+        {
+          "id": 3,
+          "text": "Breathing high partial pressures of oxygen"
+        },
+        {
+          "id": 4,
+          "text": "Missed decompression stops"
+        },
+        {
+          "id": 5,
+          "text": "A neck seal that is too tight"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 13,
+      "text": "You are on a liveaboard dive trip for a week and intend to miss the next dive. Your friend, who you have done some but not all the dives on the trip with, has a computer whose battery has failed. There is no spare, and he asks if he can borrow your computer. How should you answer (responsibly)?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "44.88%"
+        },
+        {
+          "id": 2,
+          "text": "22.44%"
+        },
+        {
+          "id": 3,
+          "text": "11.22%"
+        },
+        {
+          "id": 4,
+          "text": "5.61%"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 14,
+      "text": "A few years ago a major UK travel company ran a TV advertisement showing a diver arriving at the airport for his flight home in full diving gear. They had to withdraw the advert because _______",
+      "answers": [
+        {
+          "id": 1,
+          "text": "22 minutes"
+        },
+        {
+          "id": 2,
+          "text": "25 minutes"
+        },
+        {
+          "id": 3,
+          "text": "28 minutes"
+        },
+        {
+          "id": 4,
+          "text": "29 minutes"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 15,
+      "text": "Question 15",
+      "answers": [
+        {
+          "id": 1,
+          "text": "A decompression stop at 9 metres"
+        },
+        {
+          "id": 2,
+          "text": "A safety stop at 9 metres"
+        },
+        {
+          "id": 3,
+          "text": "A decompression stop at 6 metres"
+        },
+        {
+          "id": 4,
+          "text": "A safety stop at 6 metres"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 16,
+      "text": "Question 16",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Yes: you don't need it so it's not a problem for your buddy to use it"
+        },
+        {
+          "id": 2,
+          "text": "Yes: because he has done broadly similar dives to you, though his were for a longer duration, it will be OK to use it"
+        },
+        {
+          "id": 3,
+          "text": "Yes: because all the diving has been in 15m or less"
+        },
+        {
+          "id": 4,
+          "text": "No: he might not understand the display"
+        },
+        {
+          "id": 5,
+          "text": "No: your computer has not got his previous dives logged and might underestimate his decompression requirements"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 17,
+      "text": "Question 17",
+      "answers": [
+        {
+          "id": 1,
+          "text": "They were not a specialist firm organising diving holidays"
+        },
+        {
+          "id": 2,
+          "text": "Divers' knives (shown in the advert) are a security risk and are not allowed"
+        },
+        {
+          "id": 3,
+          "text": "Diving before flying means that it would not be possible to drink alcohol on the return flight"
+        },
+        {
+          "id": 4,
+          "text": "Any period spent at reduced pressure or altitude immediately after a dive will put the diver at greater risk of DCI"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    }
+  ]
+}

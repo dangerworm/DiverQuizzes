@@ -1,0 +1,583 @@
+{
+  "id": "st2",
+  "title": "Sports Diver Knowledge Review - ST2",
+  "description": "Advanced Diving Skills",
+  "questions": [
+    {
+      "id": 1,
+      "text": "If one diver is in trouble underwater, there will be another diver who can come to their rescue if they are using the _______ system.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "PADI"
+        },
+        {
+          "id": 2,
+          "text": "BSAC"
+        },
+        {
+          "id": 3,
+          "text": "DSMB"
+        },
+        {
+          "id": 4,
+          "text": "Buddy"
+        },
+        {
+          "id": 5,
+          "text": "Buddy check"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 2,
+      "text": "In what circumstances can buddy checks be omitted?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "If you have already dived with your buddy today"
+        },
+        {
+          "id": 2,
+          "text": "When diving with a regular diving partner"
+        },
+        {
+          "id": 3,
+          "text": "When diving with any instructor"
+        },
+        {
+          "id": 4,
+          "text": "When diving with a National Instructor"
+        },
+        {
+          "id": 5,
+          "text": "Never"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 3,
+      "text": "Which of the following pre_______dive behaviours might indicate a potential problem with your buddy? Tick all that apply.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Nervousness or reluctance about the dive"
+        },
+        {
+          "id": 2,
+          "text": "Laughing and joking"
+        },
+        {
+          "id": 3,
+          "text": "Multiple excuses and questions"
+        },
+        {
+          "id": 4,
+          "text": "Packing a goody bag"
+        },
+        {
+          "id": 5,
+          "text": "Slow kitting up, hesitation, and constant fiddling"
+        },
+        {
+          "id": 6,
+          "text": "Becoming breathless or sweating, when kitting-up"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        3,
+        5,
+        6
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 4,
+      "text": "What should you do if your buddy shows signs of being unhappy about the dive.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Adapt the dive plan"
+        },
+        {
+          "id": 2,
+          "text": "Reassure them"
+        },
+        {
+          "id": 3,
+          "text": "Abort the dive"
+        },
+        {
+          "id": 4,
+          "text": "Use peer pressure to persuade them to dive"
+        },
+        {
+          "id": 5,
+          "text": "Choose a different dive site"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        3,
+        5
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 5,
+      "text": "Which of the following behaviours during a dive are signs of a problem developing with your buddy? Tick all that apply.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Kicking up lots of silt"
+        },
+        {
+          "id": 2,
+          "text": "Becoming pre-occupied with kit"
+        },
+        {
+          "id": 3,
+          "text": "Slow response to signals"
+        },
+        {
+          "id": 4,
+          "text": "Eyes begin to widen or stare"
+        },
+        {
+          "id": 5,
+          "text": "Ignores you and fins off on his own"
+        },
+        {
+          "id": 6,
+          "text": "Breathing rate increases"
+        },
+        {
+          "id": 7,
+          "text": "Pre-occupied with camera"
+        },
+        {
+          "id": 8,
+          "text": "Stopping for no apparent reason"
+        }
+      ],
+      "correctAnswerIds": [
+        2,
+        3,
+        4,
+        6,
+        8
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 6,
+      "text": "Taking action at an early stage when your buddy appears to have a problem underwater can avoid a deterioration into _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Argument"
+        },
+        {
+          "id": 2,
+          "text": "Decompression stops"
+        },
+        {
+          "id": 3,
+          "text": "Confusion"
+        },
+        {
+          "id": 4,
+          "text": "Panic"
+        },
+        {
+          "id": 5,
+          "text": "Wasted dive time"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 7,
+      "text": "If you suspect that your buddy has a problem underwater your first action should be to _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Abort the dive"
+        },
+        {
+          "id": 2,
+          "text": "Give a distress signal"
+        },
+        {
+          "id": 3,
+          "text": "Give an OK signal"
+        },
+        {
+          "id": 4,
+          "text": "Move away"
+        },
+        {
+          "id": 5,
+          "text": "Stop and move close"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 8,
+      "text": "Where can the Basic Life Support sequence be carried out? Tick all that are correct.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "At depth as soon as an emergency happens"
+        },
+        {
+          "id": 2,
+          "text": "On the ascent as the injured diver is brought to the surface"
+        },
+        {
+          "id": 3,
+          "text": "On the surface before a tow is started"
+        },
+        {
+          "id": 4,
+          "text": "On the surface while a tow is underway"
+        },
+        {
+          "id": 5,
+          "text": "On land after recovery from the water"
+        },
+        {
+          "id": 6,
+          "text": "On a boat after recovery from the water"
+        },
+        {
+          "id": 7,
+          "text": "When the casualty is breathing normally and is in the recovery position"
+        }
+      ],
+      "correctAnswerIds": [
+        5,
+        6
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 9,
+      "text": "If you have performed a rescue ascent with a casualty, what should your first action be on reaching the surface?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Summon help"
+        },
+        {
+          "id": 2,
+          "text": "Ensure the casualty is buoyant at the surface"
+        },
+        {
+          "id": 3,
+          "text": "Remove mouthpiece and mask, and extend airway"
+        },
+        {
+          "id": 4,
+          "text": "Remove mouthpiece and mask, and give one minute of RBs"
+        },
+        {
+          "id": 5,
+          "text": "Commence towing to the shore"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 10,
+      "text": "Where is the easiest place to remove a casualty's equipment when landing at the shore?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "With rescuer and casualty floating in deep water"
+        },
+        {
+          "id": 2,
+          "text": "In standing depth"
+        },
+        {
+          "id": 3,
+          "text": "In shallow water with the casualty aground"
+        },
+        {
+          "id": 4,
+          "text": "On dry land"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 11,
+      "text": "How may the occupants of the dive boat assist in the rescue of a diver?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Take the boat to the casualty"
+        },
+        {
+          "id": 2,
+          "text": "Help with the removal of equipment and lifting the casualty from the water without further RB"
+        },
+        {
+          "id": 3,
+          "text": "Continue first aid"
+        },
+        {
+          "id": 4,
+          "text": "Perform BLS"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 12,
+      "text": "Which of the following help to clear the airway. Tick all that are appropriate.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Remove foreign objects from mouth"
+        },
+        {
+          "id": 2,
+          "text": "Nod the chin onto the chest"
+        },
+        {
+          "id": 3,
+          "text": "Remove the hood, if tight around the neck"
+        },
+        {
+          "id": 4,
+          "text": "Tip head back to give a neck extension"
+        },
+        {
+          "id": 5,
+          "text": "Rescuer place hand under neck and squeeze gently"
+        },
+        {
+          "id": 6,
+          "text": "Check tongue is well forward in mouth"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        3,
+        4
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 13,
+      "text": "The recovery position is used for a casualty who is _______ and breathing.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Alert"
+        },
+        {
+          "id": 2,
+          "text": "Distressed"
+        },
+        {
+          "id": 3,
+          "text": "Recovered"
+        },
+        {
+          "id": 4,
+          "text": "Stable"
+        },
+        {
+          "id": 5,
+          "text": "Unconscious"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 14,
+      "text": "What symptoms should you use to diagnose that the casualty has had a cardiac arrest, and therefore requires RBs and CCs?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "No pulse"
+        },
+        {
+          "id": 2,
+          "text": "No chest movement, blue lips"
+        },
+        {
+          "id": 3,
+          "text": "Unconscious"
+        },
+        {
+          "id": 4,
+          "text": "Unresponsive and not breathing normally"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 15,
+      "text": "What is the approximate number of RBs you should deliver per minute when giving them in water life support?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "2"
+        },
+        {
+          "id": 2,
+          "text": "10"
+        },
+        {
+          "id": 3,
+          "text": "15"
+        },
+        {
+          "id": 4,
+          "text": "30"
+        },
+        {
+          "id": 5,
+          "text": "100"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 16,
+      "text": "What is the approximate rate at which you should give CCs, in compressions per minute?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "2"
+        },
+        {
+          "id": 2,
+          "text": "10"
+        },
+        {
+          "id": 3,
+          "text": "15"
+        },
+        {
+          "id": 4,
+          "text": "30"
+        },
+        {
+          "id": 5,
+          "text": "100"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 17,
+      "text": "Which of the following should you use to monitor the effectiveness of RBs?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Rise and fall of chest"
+        },
+        {
+          "id": 2,
+          "text": "Resistance of lungs to inflation"
+        },
+        {
+          "id": 3,
+          "text": "Sound of casualty's exhalations"
+        },
+        {
+          "id": 4,
+          "text": "Changes in colour of complexion"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 18,
+      "text": "If you are alone with a buddy who is unresponsive and not breathing normally, what should be your first action after landing the casualty?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Give 10 RBs"
+        },
+        {
+          "id": 2,
+          "text": "Commence CCs"
+        },
+        {
+          "id": 3,
+          "text": "Send or go for help"
+        },
+        {
+          "id": 4,
+          "text": "Reassure the victim"
+        },
+        {
+          "id": 5,
+          "text": "Clear the airway"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    }
+  ]
+}

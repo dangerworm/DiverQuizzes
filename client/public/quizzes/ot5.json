@@ -1,0 +1,671 @@
+{
+  "id": "ot5",
+  "title": "Ocean Diver Knowledge Review - OT5",
+  "description": "Diving Signals and Communications",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Diving as a buddy pair promotes _______ and enjoyment.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "economy"
+        },
+        {
+          "id": 2,
+          "text": "satisfaction"
+        },
+        {
+          "id": 3,
+          "text": "conservation"
+        },
+        {
+          "id": 4,
+          "text": "safety"
+        },
+        {
+          "id": 5,
+          "text": "adventure"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 2,
+      "text": "The person in charge of diving on a Branch dive is the _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Dive Manager"
+        },
+        {
+          "id": 2,
+          "text": "Dive Marshal"
+        },
+        {
+          "id": 3,
+          "text": "Divemaster"
+        },
+        {
+          "id": 4,
+          "text": "Instructor"
+        },
+        {
+          "id": 5,
+          "text": "Skipper"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 3,
+      "text": "Which of the following is the Dive Manager responsible for?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Site selection"
+        },
+        {
+          "id": 2,
+          "text": "Arranging buddy pairs"
+        },
+        {
+          "id": 3,
+          "text": "Giving a dive brief"
+        },
+        {
+          "id": 4,
+          "text": "Arranging safety cover"
+        },
+        {
+          "id": 5,
+          "text": "Monitoring conditions throughout the dive"
+        },
+        {
+          "id": 6,
+          "text": "Making a dive plan for each buddy pair"
+        },
+        {
+          "id": 7,
+          "text": "Supervising buddy checks"
+        },
+        {
+          "id": 8,
+          "text": "Terminating diving if necessary"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 4,
+      "text": "Which of the following aspects need to be incorporated in a buddy dive plan.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Leadership"
+        },
+        {
+          "id": 2,
+          "text": "Depth and time"
+        },
+        {
+          "id": 3,
+          "text": "Deep Diving"
+        },
+        {
+          "id": 4,
+          "text": "Gas planning"
+        },
+        {
+          "id": 5,
+          "text": "Equipment"
+        },
+        {
+          "id": 6,
+          "text": "Separation procedure"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2,
+        4,
+        5,
+        6
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 5,
+      "text": "If you unhappy with any aspect of the dive plan you should _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Go along with it anyway"
+        },
+        {
+          "id": 2,
+          "text": "Trust the experience of your buddy"
+        },
+        {
+          "id": 3,
+          "text": "Trust the experience of the dive marshal"
+        },
+        {
+          "id": 4,
+          "text": "Insist that the plan is altered to your satisfaction"
+        },
+        {
+          "id": 5,
+          "text": "Complain after the dive."
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 6,
+      "text": "A brief should precede each dive. A good memory aid is _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "SODS"
+        },
+        {
+          "id": 2,
+          "text": "SOS"
+        },
+        {
+          "id": 3,
+          "text": "SAIDS"
+        },
+        {
+          "id": 4,
+          "text": "SEEDS"
+        },
+        {
+          "id": 5,
+          "text": "REAP"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 7,
+      "text": "The Buddy Check ensures that _______. Tick all that apply.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "All equipment is present and correctly fitted"
+        },
+        {
+          "id": 2,
+          "text": "Air is turned on"
+        },
+        {
+          "id": 3,
+          "text": "Direct feeds are operating"
+        },
+        {
+          "id": 4,
+          "text": "Weightbelt is operational"
+        },
+        {
+          "id": 5,
+          "text": "You are familiar with each other’s kit"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 8,
+      "text": "Before wading into the water, you should make sure that you have _______. Tick all that apply.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Confirmed your dive plan with the Dive Manager"
+        },
+        {
+          "id": 2,
+          "text": "Eaten lunch"
+        },
+        {
+          "id": 3,
+          "text": "Fitted your mask"
+        },
+        {
+          "id": 4,
+          "text": "Fitted your fins"
+        },
+        {
+          "id": 5,
+          "text": "Performed a buddy check"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        3
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 9,
+      "text": "Before jumping or rolling into the water, you should make sure that you have _______. Tick all that apply.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Confirmed your dive plan with the Dive Manager"
+        },
+        {
+          "id": 2,
+          "text": "Checked there is sufficient depth of water"
+        },
+        {
+          "id": 3,
+          "text": "Fitted your mask and demand valve"
+        },
+        {
+          "id": 4,
+          "text": "Fitted your fins"
+        },
+        {
+          "id": 5,
+          "text": "Performed a buddy check"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 10,
+      "text": "During the dive you should _______ your buddy.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Wave occasionally to"
+        },
+        {
+          "id": 2,
+          "text": "Signal constantly to"
+        },
+        {
+          "id": 3,
+          "text": "Stay together with"
+        },
+        {
+          "id": 4,
+          "text": "Hold hands with"
+        },
+        {
+          "id": 5,
+          "text": "Tie yourself to"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 11,
+      "text": "During the dive you should regularly monitor _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Breathing gas"
+        },
+        {
+          "id": 2,
+          "text": "Depth"
+        },
+        {
+          "id": 3,
+          "text": "Time"
+        },
+        {
+          "id": 4,
+          "text": "Computer readings"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 12,
+      "text": "The maximum rate of ascent to 6 m when using BSAC 88 Tables is _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "18 metres per minute"
+        },
+        {
+          "id": 2,
+          "text": "10 metres per minute"
+        },
+        {
+          "id": 3,
+          "text": "20 metres per minute"
+        },
+        {
+          "id": 4,
+          "text": "3 metres per minute"
+        },
+        {
+          "id": 5,
+          "text": "15 metres per minute"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 13,
+      "text": "In the last 6 metres you should ensure that you _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Slow your breathing down"
+        },
+        {
+          "id": 2,
+          "text": "Look down"
+        },
+        {
+          "id": 3,
+          "text": "Take at least 1 minute to surface"
+        },
+        {
+          "id": 4,
+          "text": "Fin as hard as possible"
+        },
+        {
+          "id": 5,
+          "text": "Dump all air from your BC"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 14,
+      "text": "Once you have surfaced and exchanged OKs with your buddy, you should _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Swim as fast as possible for shore"
+        },
+        {
+          "id": 2,
+          "text": "Wave vigorously to the dive boat or shore party"
+        },
+        {
+          "id": 3,
+          "text": "Shout to the dive boat or shore party"
+        },
+        {
+          "id": 4,
+          "text": "Signal OK to the dive boat or shore party"
+        },
+        {
+          "id": 5,
+          "text": "Lie back and relax"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 15,
+      "text": "If you become separated from your buddy during the dive you should _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Press on alone"
+        },
+        {
+          "id": 2,
+          "text": "Search for 5 minutes and then press on"
+        },
+        {
+          "id": 3,
+          "text": "Search for 10 minutes and then surface"
+        },
+        {
+          "id": 4,
+          "text": "Stop where you are"
+        },
+        {
+          "id": 5,
+          "text": "Stop, look around, rise and look again, and then ascend normally"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 16,
+      "text": "When leaving the water in full kit you should _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Remove your mask"
+        },
+        {
+          "id": 2,
+          "text": "Remove your demand valve"
+        },
+        {
+          "id": 3,
+          "text": "Deflate your BC"
+        },
+        {
+          "id": 4,
+          "text": "Keep your mask and demand valve in place"
+        },
+        {
+          "id": 5,
+          "text": "Ditch your weightbelt"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 17,
+      "text": "What must you do after a dive?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Go to the pub"
+        },
+        {
+          "id": 2,
+          "text": "Give your dive details to the Dive Manager"
+        },
+        {
+          "id": 3,
+          "text": "Go to the toilet"
+        },
+        {
+          "id": 4,
+          "text": "Write a trip report"
+        },
+        {
+          "id": 5,
+          "text": "Refill your cylinder"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 18,
+      "text": "Which of the following is a dive flag? Tick all that apply.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "<img src=\"flagA. Gif\" alt=\"flagA. Gif\" title=\"flagA\" width=\"80\" height=\"79\"></img>"
+        },
+        {
+          "id": 2,
+          "text": "<img src=\"flagB. Gif\" alt=\"flagB. Gif\" title=\"flagB\" width=\"80\" height=\"79\"></img>"
+        },
+        {
+          "id": 3,
+          "text": "<img src=\"flagH. Gif\" alt=\"flagH. Gif\" title=\"flagH\" width=\"80\" height=\"80\"></img>"
+        },
+        {
+          "id": 4,
+          "text": "<img src=\"flagM. Gif\" alt=\"flagM. Gif\" title=\"flagM\" width=\"80\" height=\"80\"></img>"
+        },
+        {
+          "id": 5,
+          "text": "<img src=\"flagV. Gif\" alt=\"flagV. Gif\" title=\"flagV\" width=\"80\" height=\"80\"></img>"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 19,
+      "text": "Pilotage is _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Using easily identifiable features to find your way underwater"
+        },
+        {
+          "id": 2,
+          "text": "Looking back to see how features will look when you approach them on the return journey"
+        },
+        {
+          "id": 3,
+          "text": "Monitoring your depth as a means of finding your way underwater"
+        },
+        {
+          "id": 4,
+          "text": "Following sand ripples since they usually run parallel to the shore"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 20,
+      "text": "Colours are absorbed from light as we go deeper in the water. Without artificial light, marine life that is red will appear _______ at depth.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Violet"
+        },
+        {
+          "id": 2,
+          "text": "Yellow"
+        },
+        {
+          "id": 3,
+          "text": "Green"
+        },
+        {
+          "id": 4,
+          "text": "Blue"
+        },
+        {
+          "id": 5,
+          "text": "Orange"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 21,
+      "text": "Light rays passing from water into air are bent, and this causes objects to appear to be _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "smaller and thinner"
+        },
+        {
+          "id": 2,
+          "text": "bigger and closer"
+        },
+        {
+          "id": 3,
+          "text": "smaller and further away"
+        },
+        {
+          "id": 4,
+          "text": "bigger and further away"
+        },
+        {
+          "id": 5,
+          "text": "bigger and thinner"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    }
+  ]
+}
