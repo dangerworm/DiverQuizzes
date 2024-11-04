@@ -47,7 +47,7 @@ const App: React.FC = () => {
         
         const allQuizzes = await Promise.all(
           Object.values(quizIds).flat().map(async (id) => {
-            const response = await fetch(`quizzes/${id}.json`);
+            const response = await fetch(`${process.env.PUBLIC_URL}/quizzes/${id}.json`);
             if (!response.ok) {
               throw new Error(`Failed to load quiz ${id}`);
             }
@@ -211,12 +211,12 @@ const App: React.FC = () => {
     <div className="brand-header">
       <div className="brand-logos">
         <img 
-          src="/musac-logo.jpg" 
+          src={`${process.env.PUBLIC_URL}/musac-logo.jpg`}
           alt="MUSAC Logo" 
           className="musac-logo"
         />
         <img 
-          src="/bsac-logo.png" 
+          src={`${process.env.PUBLIC_URL}/bsac-logo.png`}
           alt="BSAC Logo" 
           className="bsac-logo"
         />
