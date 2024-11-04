@@ -1,0 +1,598 @@
+{
+  "id": "ot2",
+  "title": "Ocean Diver Knowledge Review - OT2",
+  "description": "Basic Diving Theory",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What are the major constituents of air?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "21% Oxygen, 79% Nitrogen"
+        },
+        {
+          "id": 2,
+          "text": "21% Nitrogen, 79% Oxygen"
+        },
+        {
+          "id": 3,
+          "text": "21% Oxygen, 64% Nitrogen, 15% Carbon Dioxide"
+        },
+        {
+          "id": 4,
+          "text": "21% Nitrogen, 21% Oxygen, 58% Helium"
+        },
+        {
+          "id": 5,
+          "text": "40% Nitrogen, 21% Oxygen, 19% Helium"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 2,
+      "text": "At sea level, the Earth's atmosphere exerts a pressure of approximately _______?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "0 Bar"
+        },
+        {
+          "id": 2,
+          "text": "1 Bar"
+        },
+        {
+          "id": 3,
+          "text": "0. 5 Bar"
+        },
+        {
+          "id": 4,
+          "text": "2 Bar"
+        },
+        {
+          "id": 5,
+          "text": "10 Bar"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 3,
+      "text": "When performing calculations for diving operations it is normal to use _______?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Gauge pressure"
+        },
+        {
+          "id": 2,
+          "text": "Water pressure"
+        },
+        {
+          "id": 3,
+          "text": "Atmospheric pressure"
+        },
+        {
+          "id": 4,
+          "text": "Low pressure"
+        },
+        {
+          "id": 5,
+          "text": "Absolute pressure"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 4,
+      "text": "What is the total absolute pressure at a depth of 25 m?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "0. 25 Bar"
+        },
+        {
+          "id": 2,
+          "text": "0. 35 Bar"
+        },
+        {
+          "id": 3,
+          "text": "2. 5 Bar"
+        },
+        {
+          "id": 4,
+          "text": "3. 5 Bar"
+        },
+        {
+          "id": 5,
+          "text": "25 Bar"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 5,
+      "text": "The greatest pressure/volume change occurs between which depths?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "The surface and 10 m"
+        },
+        {
+          "id": 2,
+          "text": "10 m and 20 m"
+        },
+        {
+          "id": 3,
+          "text": "20 m and 30 m"
+        },
+        {
+          "id": 4,
+          "text": "30 m and 40 m"
+        },
+        {
+          "id": 5,
+          "text": "20 m and 40 m"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 6,
+      "text": "What is the term used for divers'breathing gases containing more than 21% oxygen?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Enriched air"
+        },
+        {
+          "id": 2,
+          "text": "Trimix"
+        },
+        {
+          "id": 3,
+          "text": "Nitrox"
+        },
+        {
+          "id": 4,
+          "text": "SafeAir"
+        },
+        {
+          "id": 5,
+          "text": "Mixed Gas"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 7,
+      "text": "Mask squeeze can be prevented by _______?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Buying a loose fitting mask"
+        },
+        {
+          "id": 2,
+          "text": "Inhaling air from the mask space"
+        },
+        {
+          "id": 3,
+          "text": "Exhaling air into the mask space"
+        },
+        {
+          "id": 4,
+          "text": "Flooding the mask with water"
+        },
+        {
+          "id": 5,
+          "text": "Buying a mask which does not enclose the nose"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 8,
+      "text": "The golden rule when ascending is _______?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Always hold your breath on any ascent"
+        },
+        {
+          "id": 2,
+          "text": "Never hold your breath on any ascent"
+        },
+        {
+          "id": 3,
+          "text": "Always hold your breath as you ascend through the final 10 metres of water"
+        },
+        {
+          "id": 4,
+          "text": "Never breathe normally on an ascent"
+        },
+        {
+          "id": 5,
+          "text": "Never breathe out on an ascent"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 9,
+      "text": "A diver uses a _______ to maintain neutral buoyancy throughout the dive.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Weightbelt"
+        },
+        {
+          "id": 2,
+          "text": "Rock"
+        },
+        {
+          "id": 3,
+          "text": "Knife"
+        },
+        {
+          "id": 4,
+          "text": "Snorkel"
+        },
+        {
+          "id": 5,
+          "text": "Buoyancy Compensator"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 10,
+      "text": "Because our eyes are designed to operate in the environment of air, we have to wear a _______ when diving.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Hood"
+        },
+        {
+          "id": 2,
+          "text": "Mask"
+        },
+        {
+          "id": 3,
+          "text": "Buoyancy compensator"
+        },
+        {
+          "id": 4,
+          "text": "Regulator"
+        },
+        {
+          "id": 5,
+          "text": "Compass"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 11,
+      "text": "Which of the following is NOT an important reason why the nose is enclosed inside the divers mask?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "To allow the air pressure to be balanced"
+        },
+        {
+          "id": 2,
+          "text": "To equalise pressure on the ears"
+        },
+        {
+          "id": 3,
+          "text": "To allow water to be cleared from the mask"
+        },
+        {
+          "id": 4,
+          "text": "To keep the nose warm in cold water"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 12,
+      "text": "If the pressure on a gas increases, its volume will_______ in direct proportion.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "decrease"
+        },
+        {
+          "id": 2,
+          "text": "increase"
+        },
+        {
+          "id": 3,
+          "text": "remain static"
+        },
+        {
+          "id": 4,
+          "text": "expand"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 13,
+      "text": "An inverted bucket full of air at the surface, will be _______ full of air at 10 m.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "1/2 full"
+        },
+        {
+          "id": 2,
+          "text": "1/4 full"
+        },
+        {
+          "id": 3,
+          "text": "1/3 full"
+        },
+        {
+          "id": 4,
+          "text": "3/4 full"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 14,
+      "text": "The regulator is a two stage pressure reducing valve which reduces the high pressure cylinder air to _______ at which the diver breathes.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "5 bar absolute"
+        },
+        {
+          "id": 2,
+          "text": "6 bar absolute"
+        },
+        {
+          "id": 3,
+          "text": "6 bar above ambient pressure"
+        },
+        {
+          "id": 4,
+          "text": "10 bar above ambient pressure"
+        },
+        {
+          "id": 5,
+          "text": "ambient water pressure"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 15,
+      "text": "The regulator first stage should be fitted with a high pressure _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "compass"
+        },
+        {
+          "id": 2,
+          "text": "depth gauge"
+        },
+        {
+          "id": 3,
+          "text": "cylinder pressure gauge"
+        },
+        {
+          "id": 4,
+          "text": "computer"
+        },
+        {
+          "id": 5,
+          "text": "BC inflation hose"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 16,
+      "text": "Cylinders used for Nitrox require _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Visual inspection every two and a half years"
+        },
+        {
+          "id": 2,
+          "text": "Hydraulical testing every five years"
+        },
+        {
+          "id": 3,
+          "text": "Labelling to show what gas they contain"
+        },
+        {
+          "id": 4,
+          "text": "Cleaning and certifying every year"
+        },
+        {
+          "id": 5,
+          "text": "trimix"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 17,
+      "text": "WC stamped on a cylinder refers to _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "water component"
+        },
+        {
+          "id": 2,
+          "text": "water content"
+        },
+        {
+          "id": 3,
+          "text": "water capacity"
+        },
+        {
+          "id": 4,
+          "text": "waterproof cylinder"
+        },
+        {
+          "id": 5,
+          "text": "weatherproof cylinder"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 18,
+      "text": "To guard against air supply problems, you should have _______ _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "a snorkel"
+        },
+        {
+          "id": 2,
+          "text": "a dpv"
+        },
+        {
+          "id": 3,
+          "text": "a quick release weight belt"
+        },
+        {
+          "id": 4,
+          "text": "an octopus regulator"
+        },
+        {
+          "id": 5,
+          "text": "large cylinder"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 19,
+      "text": "After diving you should always _______ your equipment in _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "wash, fresh water"
+        },
+        {
+          "id": 2,
+          "text": "pack, soft divebags"
+        },
+        {
+          "id": 3,
+          "text": "transport, rigid containers"
+        },
+        {
+          "id": 4,
+          "text": "rinse, seawater"
+        },
+        {
+          "id": 5,
+          "text": "store, divebags"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 20,
+      "text": "If a diver gives you a signal you should always _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "ignore it"
+        },
+        {
+          "id": 2,
+          "text": "repeat it back"
+        },
+        {
+          "id": 3,
+          "text": "acknowledge it"
+        },
+        {
+          "id": 4,
+          "text": "give an OK signal"
+        },
+        {
+          "id": 5,
+          "text": "all of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    }
+  ]
+}

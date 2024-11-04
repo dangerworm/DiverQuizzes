@@ -1,0 +1,1133 @@
+{
+  "id": "ot4",
+  "title": "Ocean Diver Knowledge Review - OT4",
+  "description": "Diving Equipment",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What useful purpose does nitrogen fulfil in the human body?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "It carries oxygen to the tissues"
+        },
+        {
+          "id": 2,
+          "text": "It removes carbon dioxide from the tissues"
+        },
+        {
+          "id": 3,
+          "text": "None"
+        },
+        {
+          "id": 4,
+          "text": "It transports food to the tissues"
+        },
+        {
+          "id": 5,
+          "text": "It removes waste from the tissues"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 2,
+      "text": "In a normal state our bodies are saturated with nitrogen, and when diving, increasing ambient pressure results in _______ nitrogen absorption.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "More"
+        },
+        {
+          "id": 2,
+          "text": "Less"
+        },
+        {
+          "id": 3,
+          "text": "The same amount of"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 3,
+      "text": "On ascent the ambient pressure falls and this causes the tissues to _______ nitrogen.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "absorb more"
+        },
+        {
+          "id": 2,
+          "text": "release"
+        },
+        {
+          "id": 3,
+          "text": "expand with"
+        },
+        {
+          "id": 4,
+          "text": "dissolve"
+        },
+        {
+          "id": 5,
+          "text": "neutralise"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 4,
+      "text": "A sudden drop in pressure (a fast ascent) may not give enough time for a safe release of nitrogen. This can result in a medical condition called _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Nitrogen narcosis"
+        },
+        {
+          "id": 2,
+          "text": "HPNS"
+        },
+        {
+          "id": 3,
+          "text": "Hypercapnia"
+        },
+        {
+          "id": 4,
+          "text": "Decompression Illness"
+        },
+        {
+          "id": 5,
+          "text": "Nitrogen poisoning"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 5,
+      "text": "Nitrogen will be released during an ascent, and at what other time?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "At the deepest part of the dive"
+        },
+        {
+          "id": 2,
+          "text": "During the descent"
+        },
+        {
+          "id": 3,
+          "text": "After the dive, on the surface"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 6,
+      "text": "Which of the following tissue types releases nitrogen quickly?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "fat"
+        },
+        {
+          "id": 2,
+          "text": "cartilage"
+        },
+        {
+          "id": 3,
+          "text": "heart"
+        },
+        {
+          "id": 4,
+          "text": "tendons"
+        },
+        {
+          "id": 5,
+          "text": "bones"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 7,
+      "text": "If you dive to one of the following depths, you will not be at risk from DCI, no matter how long you dive. See BSAC 88 Tables",
+      "answers": [
+        {
+          "id": 1,
+          "text": "5 m"
+        },
+        {
+          "id": 2,
+          "text": "10 m"
+        },
+        {
+          "id": 3,
+          "text": "15 m"
+        },
+        {
+          "id": 4,
+          "text": "20 m"
+        },
+        {
+          "id": 5,
+          "text": "25 m"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 8,
+      "text": "A dive for which the table indicates no need for a decompression stop or stops during the ascent is called a _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "wall dive"
+        },
+        {
+          "id": 2,
+          "text": "safe dive"
+        },
+        {
+          "id": 3,
+          "text": "rectangular dive"
+        },
+        {
+          "id": 4,
+          "text": "no stop dive"
+        },
+        {
+          "id": 5,
+          "text": "decompression dive"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 9,
+      "text": "You can find no stop times for given dive depths by looking in _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "the Ocean Diver Student Workbook"
+        },
+        {
+          "id": 2,
+          "text": "Your log book"
+        },
+        {
+          "id": 3,
+          "text": "A set of tide tables"
+        },
+        {
+          "id": 4,
+          "text": "BSAC'88 Decompression Tables"
+        },
+        {
+          "id": 5,
+          "text": "Safe Diving"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 10,
+      "text": "An Ocean Diver is qualified to use the BSAC'88 Decompression Tables to _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Eliminate the possibility of getting DCI"
+        },
+        {
+          "id": 2,
+          "text": "Plan decompression stop dives"
+        },
+        {
+          "id": 3,
+          "text": "Plan dives to 25 m"
+        },
+        {
+          "id": 4,
+          "text": "Plan no-stop dives to a maximum of 20 m only"
+        },
+        {
+          "id": 5,
+          "text": "Plan extended range diving"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 11,
+      "text": "The correct rate of ascent to 6 m is _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "18 metres per minute"
+        },
+        {
+          "id": 2,
+          "text": "10 metres per minute"
+        },
+        {
+          "id": 3,
+          "text": "20 metres per minute"
+        },
+        {
+          "id": 4,
+          "text": "3 metres per minute"
+        },
+        {
+          "id": 5,
+          "text": "15 metres per minute"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 12,
+      "text": "Arriving at 6 m during the ascent you should _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Descend"
+        },
+        {
+          "id": 2,
+          "text": "Ascend immediately"
+        },
+        {
+          "id": 3,
+          "text": "Pause then take 1 minute to ascend"
+        },
+        {
+          "id": 4,
+          "text": "Pause then ascend to 3 m"
+        },
+        {
+          "id": 5,
+          "text": "Ascend to 3 m and then pause"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 13,
+      "text": "If you dive to a maximum depth of 6 m, what is your no stop time? See BSAC 88 Tables",
+      "answers": [
+        {
+          "id": 1,
+          "text": "243 minutes"
+        },
+        {
+          "id": 2,
+          "text": "376 minutes"
+        },
+        {
+          "id": 3,
+          "text": "479 minutes"
+        },
+        {
+          "id": 4,
+          "text": "480 minutes"
+        },
+        {
+          "id": 5,
+          "text": "Unlimited"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 14,
+      "text": "Dive time is _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "The total elapsed time of the dive"
+        },
+        {
+          "id": 2,
+          "text": "The time between the start of descent and the start of ascent"
+        },
+        {
+          "id": 3,
+          "text": "The time between the start of descent and reaching 6 m on the ascent"
+        },
+        {
+          "id": 4,
+          "text": "The time between the start of descent and the deepest point of the dive"
+        },
+        {
+          "id": 5,
+          "text": "The time between the end of the descent and the start of the ascent"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 15,
+      "text": "What does the Surfacing Code describe?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "The length of the dive"
+        },
+        {
+          "id": 2,
+          "text": "The depth of the dive"
+        },
+        {
+          "id": 3,
+          "text": "The length of the decompression stop"
+        },
+        {
+          "id": 4,
+          "text": "The diver's tissue saturation level (nitrogen) on surfacing from the dive"
+        },
+        {
+          "id": 5,
+          "text": "The time till flying in an aeroplane is allowed"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 16,
+      "text": "What is the Surface Interval?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "The time between the start of one dive and the start of the next"
+        },
+        {
+          "id": 2,
+          "text": "The time between surfacing from one dive and descending on the next"
+        },
+        {
+          "id": 3,
+          "text": "The distance between two dive sites"
+        },
+        {
+          "id": 4,
+          "text": "The distance necessary to swim out to start a descent"
+        },
+        {
+          "id": 5,
+          "text": "The time necessary to wait before flying in an aeroplane after diving."
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 17,
+      "text": "The Current Tissue Code indicates:",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Which Table the diver can now use to make a dive"
+        },
+        {
+          "id": 2,
+          "text": "The level of nitrogen saturation at the end of the previous dive"
+        },
+        {
+          "id": 3,
+          "text": "The length of time necessary for the Surface Interval"
+        },
+        {
+          "id": 4,
+          "text": "The depth of the current dive"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 18,
+      "text": "What is the ascent check depth for a no stop dive?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "The depth at the end of the dive before ascending"
+        },
+        {
+          "id": 2,
+          "text": "The depth at the level of your first decompression stop"
+        },
+        {
+          "id": 3,
+          "text": "9 m"
+        },
+        {
+          "id": 4,
+          "text": "6 m"
+        },
+        {
+          "id": 5,
+          "text": "Surface"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 19,
+      "text": "No stop dive times are coloured _______ on the BSAC'88 Tables?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "pale yellow"
+        },
+        {
+          "id": 2,
+          "text": "pale blue"
+        },
+        {
+          "id": 3,
+          "text": "white"
+        },
+        {
+          "id": 4,
+          "text": "pale green"
+        },
+        {
+          "id": 5,
+          "text": "grey"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 20,
+      "text": "When calculating decompression, if you are in doubt about the exact depth, you should _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Use the shallower increment"
+        },
+        {
+          "id": 2,
+          "text": "Use the deeper increment"
+        },
+        {
+          "id": 3,
+          "text": "Add 3 m as a safety precaution"
+        },
+        {
+          "id": 4,
+          "text": "Add 6 m as a safety precaution"
+        },
+        {
+          "id": 5,
+          "text": "Round up to the next even number"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 21,
+      "text": "You should always plan to surface with _______ still in your cylinder.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "25% of your breathing gas"
+        },
+        {
+          "id": 2,
+          "text": "50% of your breathing gas"
+        },
+        {
+          "id": 3,
+          "text": "33% of your breathing gas"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 22,
+      "text": "When using decompression tables you need _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "A Dive Computer"
+        },
+        {
+          "id": 2,
+          "text": "Accurate counting of fin strokes"
+        },
+        {
+          "id": 3,
+          "text": "Ascent in line with your small exhaust bubbles"
+        },
+        {
+          "id": 4,
+          "text": "A depth gauge and watch"
+        },
+        {
+          "id": 5,
+          "text": "A high level of physical fitness"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 23,
+      "text": "Enjoyable and trouble free dives are dives which are _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "shallow"
+        },
+        {
+          "id": 2,
+          "text": "local"
+        },
+        {
+          "id": 3,
+          "text": "deep"
+        },
+        {
+          "id": 4,
+          "text": "planned"
+        },
+        {
+          "id": 5,
+          "text": "abroad"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 24,
+      "text": "Which of the following points will NOT contribute to the avoidance of a diving incident?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Practice of personal skills"
+        },
+        {
+          "id": 2,
+          "text": "Buying the most expensive equipment"
+        },
+        {
+          "id": 3,
+          "text": "Planning the dive"
+        },
+        {
+          "id": 4,
+          "text": "Buddy and self monitoring"
+        },
+        {
+          "id": 5,
+          "text": "Diving with an experienced buddy"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 25,
+      "text": "Plan the dive and _______",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Plan the lunch"
+        },
+        {
+          "id": 2,
+          "text": "Dive the plan"
+        },
+        {
+          "id": 3,
+          "text": "Dive the wreck"
+        },
+        {
+          "id": 4,
+          "text": "Plan to dive"
+        },
+        {
+          "id": 5,
+          "text": "Dive the dive"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 26,
+      "text": "Which of the following statements about safe decompression is correct?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "In a series of dives do the deepest one at the end"
+        },
+        {
+          "id": 2,
+          "text": "Dehydration is only a problem in hot climates"
+        },
+        {
+          "id": 3,
+          "text": "Avoid saw tooth dive profiles"
+        },
+        {
+          "id": 4,
+          "text": "Diving with a hangover is uncomfortable but harmless"
+        },
+        {
+          "id": 5,
+          "text": "If you are cold you are less likely to get DCI"
+        },
+        {
+          "id": 6,
+          "text": "You can get DCI even if you stick rigidly to your tables/computer"
+        }
+      ],
+      "correctAnswerIds": [
+        3,
+        6
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 27,
+      "text": "You fly into your dive destination. How long should you wait before diving?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "1 hour"
+        },
+        {
+          "id": 2,
+          "text": "16 hours"
+        },
+        {
+          "id": 3,
+          "text": "8 hours"
+        },
+        {
+          "id": 4,
+          "text": "24 hours"
+        },
+        {
+          "id": 5,
+          "text": "10 hours"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 28,
+      "text": "You have been on a diving holiday. How long should elapse from the end of your last dive to the flight?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "1 hour"
+        },
+        {
+          "id": 2,
+          "text": "16 hours"
+        },
+        {
+          "id": 3,
+          "text": "8 hours"
+        },
+        {
+          "id": 4,
+          "text": "24 hours"
+        },
+        {
+          "id": 5,
+          "text": "12 hours"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 29,
+      "text": "Which of the following is the basic function which enables a dive computer to perform decompression calculations?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Water temperature"
+        },
+        {
+          "id": 2,
+          "text": "Age of diver"
+        },
+        {
+          "id": 3,
+          "text": "Fitness of diver"
+        },
+        {
+          "id": 4,
+          "text": "Exertion of diver"
+        },
+        {
+          "id": 5,
+          "text": "Mathematical model of nitrogen uptake in the tissues"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 30,
+      "text": "The advantage to the diver of a multi level dive computer in comparison to decompression tables is that the computer takes into account _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "The physical condition of the diver"
+        },
+        {
+          "id": 2,
+          "text": "The water conditions on the dive"
+        },
+        {
+          "id": 3,
+          "text": "The actual dive profile"
+        },
+        {
+          "id": 4,
+          "text": "The actual exertion used during the dive"
+        },
+        {
+          "id": 5,
+          "text": "The individual characteristics of the diver"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 31,
+      "text": "What Nitrox mixes can an Ocean Diver use?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "21%"
+        },
+        {
+          "id": 2,
+          "text": "27%"
+        },
+        {
+          "id": 3,
+          "text": "32%"
+        },
+        {
+          "id": 4,
+          "text": "36%"
+        },
+        {
+          "id": 5,
+          "text": "40%"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        3,
+        4
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 32,
+      "text": "Which decompression tables can an Ocean Diver use when using Nitrox?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "BSAC Nitrox Tables Air (21% Oxygen) set"
+        },
+        {
+          "id": 2,
+          "text": "BSAC 88 Tables Level 1"
+        },
+        {
+          "id": 3,
+          "text": "BSAC Nitrox Tables 32% Oxygen set"
+        },
+        {
+          "id": 4,
+          "text": "BSAC Nitrox Tables 36% Oxygen) set"
+        },
+        {
+          "id": 5,
+          "text": "BSAC 88 Tables Levels 2-4"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 33,
+      "text": "What is the advantage to an Ocean Diver of using Nitrox as a breathing gas?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Longer no-stop times"
+        },
+        {
+          "id": 2,
+          "text": "Reduced equipment servicing costs"
+        },
+        {
+          "id": 3,
+          "text": "No need to worry about equipment contaminants"
+        },
+        {
+          "id": 4,
+          "text": "Greater safety factor against DCI"
+        },
+        {
+          "id": 5,
+          "text": "Cheaper gas fills"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 34,
+      "text": "Just before diving with a cylinder of Nitrox you should always _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "hyperventilate"
+        },
+        {
+          "id": 2,
+          "text": "purge your demand valve"
+        },
+        {
+          "id": 3,
+          "text": "analyse the mix"
+        },
+        {
+          "id": 4,
+          "text": "take an aspirin"
+        },
+        {
+          "id": 5,
+          "text": "wash your hands"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 35,
+      "text": "Nitrox cylinders require special materials and greases, and periodic cleaning in order to minimse the _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "cost of servicing"
+        },
+        {
+          "id": 2,
+          "text": "risk of fire and explosion"
+        },
+        {
+          "id": 3,
+          "text": "risk of bacteria growth inside"
+        },
+        {
+          "id": 4,
+          "text": "weight of the cylinder"
+        },
+        {
+          "id": 5,
+          "text": "need for special labelling"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 36,
+      "text": "Nitrox cylinders must be marked with the _______?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Owner’s name"
+        },
+        {
+          "id": 2,
+          "text": "Gas blender’s name"
+        },
+        {
+          "id": 3,
+          "text": "Pressure of the current fill"
+        },
+        {
+          "id": 4,
+          "text": "Percentage of oxygen"
+        },
+        {
+          "id": 5,
+          "text": "Percentage of nitrogen"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 37,
+      "text": "You should _______ your gas supply throughout a dive.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "monitor"
+        },
+        {
+          "id": 2,
+          "text": "conserve"
+        },
+        {
+          "id": 3,
+          "text": "share"
+        },
+        {
+          "id": 4,
+          "text": "ignore"
+        },
+        {
+          "id": 5,
+          "text": "breathe"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 38,
+      "text": "Which of the following statements about using an oxygen analyser is correct?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "always calibrate in air first"
+        },
+        {
+          "id": 2,
+          "text": "keep the flow rate high"
+        },
+        {
+          "id": 3,
+          "text": "erratic readings are normal: use best of 3, best of 5, etc"
+        },
+        {
+          "id": 4,
+          "text": "analysis should be within +/- 1% of the target mix"
+        },
+        {
+          "id": 5,
+          "text": "analysers are robust and generally unaffected by adverse conditions"
+        },
+        {
+          "id": 6,
+          "text": "read the manual"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        4,
+        6
+      ],
+      "isMultipleChoice": true
+    }
+  ]
+}

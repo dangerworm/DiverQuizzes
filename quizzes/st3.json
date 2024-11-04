@@ -1,0 +1,331 @@
+{
+  "id": "st3",
+  "title": "Sports Diver Knowledge Review - ST3",
+  "description": "Advanced Diving Theory",
+  "questions": [
+    {
+      "id": 1,
+      "text": "If a decompression trapeze is to be disconnected from the main shot at the end of the dive a _______ system is required to ensure that no divers are left behind.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Drift diving"
+        },
+        {
+          "id": 2,
+          "text": "Reef diving"
+        },
+        {
+          "id": 3,
+          "text": "Bounce diving"
+        },
+        {
+          "id": 4,
+          "text": "Decompression diving"
+        },
+        {
+          "id": 5,
+          "text": "Wreck diving"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 2,
+      "text": "An SMB float should be able to support a weight of at least _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Diver recall"
+        },
+        {
+          "id": 2,
+          "text": "Diver to surface signalling"
+        },
+        {
+          "id": 3,
+          "text": "Emergency"
+        },
+        {
+          "id": 4,
+          "text": "Logging"
+        },
+        {
+          "id": 5,
+          "text": "Buddy"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 3,
+      "text": "What is the minimum length of line required for a dive using an SMB?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "1-5 kg"
+        },
+        {
+          "id": 2,
+          "text": "5-10 kg"
+        },
+        {
+          "id": 3,
+          "text": "10-20kg"
+        },
+        {
+          "id": 4,
+          "text": "25-50kg"
+        },
+        {
+          "id": 5,
+          "text": "100 kg"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 4,
+      "text": "However you choose to carry your reel while using an SMB you must ensure that it has a _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "the depth of the dive"
+        },
+        {
+          "id": 2,
+          "text": "1.25 times the depth of the dive"
+        },
+        {
+          "id": 3,
+          "text": "30 metres"
+        },
+        {
+          "id": 4,
+          "text": "50 metres"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 5,
+      "text": "Immediately before inflating a DSMB you must make sure that _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Ratchet"
+        },
+        {
+          "id": 2,
+          "text": "Lanyard"
+        },
+        {
+          "id": 3,
+          "text": "Quick release mechanism"
+        },
+        {
+          "id": 4,
+          "text": "Karabiner"
+        },
+        {
+          "id": 5,
+          "text": "Enclosed spool"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 6,
+      "text": "What is the recommended colour DSMB to denote an emergency, where a diver to surface signalling system is being used.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "It is disconnected from you"
+        },
+        {
+          "id": 2,
+          "text": "The reel contains sufficient line to reach the surface"
+        },
+        {
+          "id": 3,
+          "text": "There are no holes in the buoy"
+        },
+        {
+          "id": 4,
+          "text": "You have sufficient breathing gas"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 7,
+      "text": "Which of the following surface detection aids should only be used in distress?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Red"
+        },
+        {
+          "id": 2,
+          "text": "Red and yellow"
+        },
+        {
+          "id": 3,
+          "text": "Yellow"
+        },
+        {
+          "id": 4,
+          "text": "Black"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 8,
+      "text": "When laying a distance line you should keep the line _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Dive flag"
+        },
+        {
+          "id": 2,
+          "text": "Strobe"
+        },
+        {
+          "id": 3,
+          "text": "EPIRB"
+        },
+        {
+          "id": 4,
+          "text": "Flare"
+        },
+        {
+          "id": 5,
+          "text": "Whistle"
+        },
+        {
+          "id": 6,
+          "text": "Mirror"
+        }
+      ],
+      "correctAnswerIds": [
+        2,
+        3,
+        4
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 9,
+      "text": "What should you do when you make a change of direction whilst laying a distance line?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Slack"
+        },
+        {
+          "id": 2,
+          "text": "Close to your body"
+        },
+        {
+          "id": 3,
+          "text": "Close to your buddy"
+        },
+        {
+          "id": 4,
+          "text": "Taut"
+        },
+        {
+          "id": 5,
+          "text": "Over lines laid previously by other divers"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 10,
+      "text": "You should not shine a torch directly into your buddy's _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Cut the line"
+        },
+        {
+          "id": 2,
+          "text": "No action needed"
+        },
+        {
+          "id": 3,
+          "text": "Secure the line"
+        },
+        {
+          "id": 4,
+          "text": "Tie the line securely, then continue using a second reel"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 11,
+      "text": "Question 11",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Pocket"
+        },
+        {
+          "id": 2,
+          "text": "Path"
+        },
+        {
+          "id": 3,
+          "text": "Goody bag"
+        },
+        {
+          "id": 4,
+          "text": "Face"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    }
+  ]
+}

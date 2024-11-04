@@ -1,0 +1,318 @@
+{
+  "id": "st5",
+  "title": "Sports Diver Knowledge Review - ST5",
+  "description": "Decompression and Dive Planning",
+  "questions": [
+    {
+      "id": 1,
+      "text": "If you begin your dive with 210 bar of gas in your cylinder, what is the minimum amount of gas (in bar) should you plan to have left on reaching the surface at the end of your dive? Type only figures in the box. The question will revert to multiple choice after 3 attempts.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "50"
+        },
+        {
+          "id": 2,
+          "text": "52.5"
+        },
+        {
+          "id": 3,
+          "text": "70"
+        },
+        {
+          "id": 4,
+          "text": "140"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 2,
+      "text": "Which surface breathing rate should you use when calculating the amount of gas required for a dive?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "25 litres per minute"
+        },
+        {
+          "id": 2,
+          "text": "your actual surface breathing rate"
+        },
+        {
+          "id": 3,
+          "text": "your actual surface breathing rate or 25 litres per minute, whichever is the higher"
+        },
+        {
+          "id": 4,
+          "text": "your actual surface breathing rate or 25 litres per minute, whichever is the lower"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 3,
+      "text": "Which of the following can increase breathing rates?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Physical size"
+        },
+        {
+          "id": 2,
+          "text": "Fitness level"
+        },
+        {
+          "id": 3,
+          "text": "Energy output"
+        },
+        {
+          "id": 4,
+          "text": "Body temperature"
+        },
+        {
+          "id": 5,
+          "text": "Nervousness"
+        },
+        {
+          "id": 6,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        6
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 4,
+      "text": "Your surface breathing rate is 20 litres per minute. How much breathing gas (in litres) is required for a dive to 30 metres for 20 minutes? Type only figures in the box. You will be shown the worked answer after 3 attempts.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "2400"
+        },
+        {
+          "id": 2,
+          "text": "20 (breathing rate) x 4 (pressure) x 20 (time) = 1600 add 50% reserve = 2400 litres"
+        },
+        {
+          "id": 3,
+          "text": "1600"
+        },
+        {
+          "id": 4,
+          "text": "1200"
+        },
+        {
+          "id": 5,
+          "text": "1800"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 5,
+      "text": "You plan to dive to 28 metres for 22 minutes with a surface breathing rate of 25 litres per minute. You have a choice of 10L, 12L, 12.5L, and 15L cylinders each filled to 220 bar. Which is the smallest cylinder that contains enough gas for the dive?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "10L"
+        },
+        {
+          "id": 2,
+          "text": "12L"
+        },
+        {
+          "id": 3,
+          "text": "12.5L"
+        },
+        {
+          "id": 4,
+          "text": "15L"
+        }
+      ],
+      "correctAnswerIds": [
+        3,
+        4
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 6,
+      "text": "What breathing rate (expressed as litres per minute at the surface) are you advised to expect during the initial phases of an emergency?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Your normal breathing rate"
+        },
+        {
+          "id": 2,
+          "text": "double your normal breathing rate"
+        },
+        {
+          "id": 3,
+          "text": "25 litres per minute"
+        },
+        {
+          "id": 4,
+          "text": "50 litres per minute"
+        },
+        {
+          "id": 5,
+          "text": "100 litres per minute"
+        }
+      ],
+      "correctAnswerIds": [
+        4,
+        5
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 7,
+      "text": "How long (in minutes) would the gas in a 3L cylinder filled to 200 bar last in an emergency at 30 metres if the user's breathing rate (surface) was 50 litres per minute? Type only figures in the box. You will be shown the worked answer after 3 attempts.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "3 minutes"
+        },
+        {
+          "id": 2,
+          "text": "Cylinder contains 3x200=600 litres Breathing rate at 30m = 50x4 = 200 litres per minute Gas will last 600/200=3 minutes"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 8,
+      "text": "Which of the following AS configurations protects the wearer completely against 1st stage failure?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Octopus"
+        },
+        {
+          "id": 2,
+          "text": "BC demand valve"
+        },
+        {
+          "id": 3,
+          "text": "2 independent regulators/single cylinder"
+        },
+        {
+          "id": 4,
+          "text": "manifolded twin cylinders"
+        },
+        {
+          "id": 5,
+          "text": "manifolded twin cylinders with isolation valve"
+        },
+        {
+          "id": 6,
+          "text": "independent twin cylinders"
+        }
+      ],
+      "correctAnswerIds": [
+        5,
+        6
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 9,
+      "text": "Which of the following AS configurations leaves both divers breathing from the same cylinder when it's in use?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Octopus"
+        },
+        {
+          "id": 2,
+          "text": "BC demand valve"
+        },
+        {
+          "id": 3,
+          "text": "2 independent regulators/single cylinder"
+        },
+        {
+          "id": 4,
+          "text": "single cylinder plus pony"
+        },
+        {
+          "id": 5,
+          "text": "independent twin cylinders"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2,
+        3
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 10,
+      "text": "What sort of regulator second stage is suitable for use as an octopus?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "An old but still functioning one"
+        },
+        {
+          "id": 2,
+          "text": "A new budget model"
+        },
+        {
+          "id": 3,
+          "text": "A high performance model"
+        },
+        {
+          "id": 4,
+          "text": "One of similar performance to the primary second stage"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 11,
+      "text": "What sort of first stage is required for use with an octopus system?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Any regulator provided it is in good condition"
+        },
+        {
+          "id": 2,
+          "text": "A new one"
+        },
+        {
+          "id": 3,
+          "text": "A high performance one"
+        },
+        {
+          "id": 4,
+          "text": "An environmentally sealed one"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    }
+  ]
+}

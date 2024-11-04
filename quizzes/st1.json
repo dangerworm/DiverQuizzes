@@ -1,0 +1,616 @@
+{
+  "id": "st1",
+  "title": "Sports Diver Knowledge Review - ST1",
+  "description": "Rescue Skills and Diving First Aid",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Going with the flow of the current is generally known as _______ diving.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Sport"
+        },
+        {
+          "id": 2,
+          "text": "Technical"
+        },
+        {
+          "id": 3,
+          "text": "Ocean"
+        },
+        {
+          "id": 4,
+          "text": "Drift"
+        },
+        {
+          "id": 5,
+          "text": "Reef"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 2,
+      "text": "When do Spring tides occur? Check all boxes that are correct.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "at full moon"
+        },
+        {
+          "id": 2,
+          "text": "at first quarter moon"
+        },
+        {
+          "id": 3,
+          "text": "at third quarter moon"
+        },
+        {
+          "id": 4,
+          "text": "roughly every 14 days"
+        },
+        {
+          "id": 5,
+          "text": "at new moon"
+        },
+        {
+          "id": 6,
+          "text": "roughly a week after a Neap tide"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        4,
+        5,
+        6
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 3,
+      "text": "Which diagram corresponds to a neap tide?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "<img src=\"ST1_moon.jpg\" alt=\"ST1_moon.jpg\" title=\"ST1_moon\" width=\"224\" height=\"210\" style=\"display: block; margin-left: auto; margin-right: auto; text-align: center;\"></img>"
+        },
+        {
+          "id": 2,
+          "text": "<img src=\"ST1_neaps.jpg\" alt=\"ST1_neaps.jpg\" title=\"ST1_neaps\" width=\"446\" height=\"244\" style=\"display: block; margin-left: auto; margin-right: auto; text-align: center;\"></img>"
+        },
+        {
+          "id": 3,
+          "text": "<img src=\"ST1_springs.jpg\" alt=\"ST1_springs.jpg\" title=\"ST1_springs\" width=\"443\" height=\"232\" style=\"display: block; margin-left: auto; margin-right: auto; text-align: center;\"></img>"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 4,
+      "text": "What abbreviation is used for the point of maximum depth during the tide cycle?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "CD"
+        },
+        {
+          "id": 2,
+          "text": "HW"
+        },
+        {
+          "id": 3,
+          "text": "LW"
+        },
+        {
+          "id": 4,
+          "text": "Np"
+        },
+        {
+          "id": 5,
+          "text": "Sp"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 5,
+      "text": "In most places around the UK, if there is a high tide at 09:00 hours, at what time approximately will the next one occur?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "12:00"
+        },
+        {
+          "id": 2,
+          "text": "15:00"
+        },
+        {
+          "id": 3,
+          "text": "18:00"
+        },
+        {
+          "id": 4,
+          "text": "21:00"
+        },
+        {
+          "id": 5,
+          "text": "09:00 next day"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 6,
+      "text": "If the depth at LW is 10 metres and the tidal range is 5 metres, what is the depth at HW?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "5 metres"
+        },
+        {
+          "id": 2,
+          "text": "10 metres"
+        },
+        {
+          "id": 3,
+          "text": "15 metres"
+        },
+        {
+          "id": 4,
+          "text": "It depends whether it is springs or neaps"
+        },
+        {
+          "id": 5,
+          "text": "Impossible to say"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 7,
+      "text": "When the tide is rising it is said to be on the _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "ebb"
+        },
+        {
+          "id": 2,
+          "text": "flood"
+        },
+        {
+          "id": 3,
+          "text": "turn"
+        },
+        {
+          "id": 4,
+          "text": "wane"
+        },
+        {
+          "id": 5,
+          "text": "wax"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 8,
+      "text": "The period when a tidal current slows down and reverses is known as _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Low water"
+        },
+        {
+          "id": 2,
+          "text": "High water"
+        },
+        {
+          "id": 3,
+          "text": "Neap tide"
+        },
+        {
+          "id": 4,
+          "text": "Slack water"
+        },
+        {
+          "id": 5,
+          "text": "Slow water"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 9,
+      "text": "Which of the following are reasons why static sites are best dived at slack water?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "no need to fight the current"
+        },
+        {
+          "id": 2,
+          "text": "lower gas consumption"
+        },
+        {
+          "id": 3,
+          "text": "no risk of being swept away"
+        },
+        {
+          "id": 4,
+          "text": "easier for surface cover to pick up divers"
+        },
+        {
+          "id": 5,
+          "text": "all of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 10,
+      "text": "Ground swell is a backwards and forwards or side_______to_______side motion felt on the seabed caused by _______?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Tidal currents"
+        },
+        {
+          "id": 2,
+          "text": "Seaweed or kelp"
+        },
+        {
+          "id": 3,
+          "text": "Ocean currents"
+        },
+        {
+          "id": 4,
+          "text": "Wave action"
+        },
+        {
+          "id": 5,
+          "text": "Boat wake"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 11,
+      "text": "Which of the following can lead to reduced underwater visibility? Check all that apply.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Windy weather"
+        },
+        {
+          "id": 2,
+          "text": "Plankton blooms"
+        },
+        {
+          "id": 3,
+          "text": "Run-off from rivers and land"
+        },
+        {
+          "id": 4,
+          "text": "Soft sediments on the seabed"
+        },
+        {
+          "id": 5,
+          "text": "Careless use of fins"
+        },
+        {
+          "id": 6,
+          "text": "Depth"
+        },
+        {
+          "id": 7,
+          "text": "Currents"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 12,
+      "text": "Which of the following significantly affects water temperature? Check all that apply.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Climate"
+        },
+        {
+          "id": 2,
+          "text": "Depth"
+        },
+        {
+          "id": 3,
+          "text": "Ocean currents"
+        },
+        {
+          "id": 4,
+          "text": "Salinity"
+        },
+        {
+          "id": 5,
+          "text": "Thunderstorms"
+        },
+        {
+          "id": 6,
+          "text": "Thermoclines"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 13,
+      "text": "What causes the water temperature to be higher on the west coast of the UK than on the east?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "The Gulf Stream"
+        },
+        {
+          "id": 2,
+          "text": "The North Sea is shallower than the seas on the west coast"
+        },
+        {
+          "id": 3,
+          "text": "Global warming"
+        },
+        {
+          "id": 4,
+          "text": "Ireland and the Outer Hebrides insulate the west coast"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 14,
+      "text": "If you are weighted for neutral buoyancy in fresh water, what will you need to do when diving in the sea with the same equipment?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Remove weight"
+        },
+        {
+          "id": 2,
+          "text": "Add weight"
+        },
+        {
+          "id": 3,
+          "text": "Leave your weights the same"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 15,
+      "text": "Which of the following can make it difficult to see divers or their surface markers?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Rain"
+        },
+        {
+          "id": 2,
+          "text": "Fog"
+        },
+        {
+          "id": 3,
+          "text": "Waves"
+        },
+        {
+          "id": 4,
+          "text": "Glare"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 16,
+      "text": "Which of the following lines up with the advice given about boat diving? Check all that apply.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Sometimes you can get in the water but you can't get out"
+        },
+        {
+          "id": 2,
+          "text": "Sometimes you can get out of the water but you can't get in"
+        },
+        {
+          "id": 3,
+          "text": "If it's calm at the dive site it will be a smooth journey to reach it"
+        },
+        {
+          "id": 4,
+          "text": "Blue skies and sunshine mean calm seas"
+        },
+        {
+          "id": 5,
+          "text": "Use more than one lookout if the waves are big"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        5
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 17,
+      "text": "How should you surface at a dive site where there is a lot of boat traffic?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Quickly"
+        },
+        {
+          "id": 2,
+          "text": "Slowly"
+        },
+        {
+          "id": 3,
+          "text": "Assertively"
+        },
+        {
+          "id": 4,
+          "text": "With caution"
+        },
+        {
+          "id": 5,
+          "text": "Recklessly"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 18,
+      "text": "Where can you obtain knowledge of the conditions at a dive site?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "The Dive Manager's brief"
+        },
+        {
+          "id": 2,
+          "text": "The Lead Instructor's brief"
+        },
+        {
+          "id": 3,
+          "text": "A dive centre"
+        },
+        {
+          "id": 4,
+          "text": "Dive books and magazines"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 19,
+      "text": "As a final precaution before a dive you should make a _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Prayer"
+        },
+        {
+          "id": 2,
+          "text": "Offering"
+        },
+        {
+          "id": 3,
+          "text": "Donation"
+        },
+        {
+          "id": 4,
+          "text": "Sanity check"
+        },
+        {
+          "id": 5,
+          "text": "Buddy check"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 20,
+      "text": "Know your _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Buddy"
+        },
+        {
+          "id": 2,
+          "text": "Rights"
+        },
+        {
+          "id": 3,
+          "text": "Enemy"
+        },
+        {
+          "id": 4,
+          "text": "Limits"
+        },
+        {
+          "id": 5,
+          "text": "Dive manager"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "id": "ot6",
+  "title": "Ocean Diver Knowledge Review - OT6",
+  "description": "Safe Diving Practice",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Inadequate elimination of nitrogen during ascent can result in _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Nitrogen narcosis"
+        },
+        {
+          "id": 2,
+          "text": "Oxygen toxicity"
+        },
+        {
+          "id": 3,
+          "text": "Hypercapnia"
+        },
+        {
+          "id": 4,
+          "text": "DCI"
+        },
+        {
+          "id": 5,
+          "text": "Nitrogen poisoning"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 2,
+      "text": "The symptoms of DCI may be due to _______. Tick all that apply.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "gas bubbles in the tissues"
+        },
+        {
+          "id": 2,
+          "text": "gas bubbles in the blood"
+        },
+        {
+          "id": 3,
+          "text": "physical damage to the lungs"
+        },
+        {
+          "id": 4,
+          "text": "too much oxygen dissolved in the blood"
+        },
+        {
+          "id": 5,
+          "text": "too much carbon monoxide dissolved in the blood"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        2,
+        3
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 3,
+      "text": "The treatment for nitrogen narcosis is to _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "descend"
+        },
+        {
+          "id": 2,
+          "text": "ascend"
+        },
+        {
+          "id": 3,
+          "text": "breathe oxygen at the surface"
+        },
+        {
+          "id": 4,
+          "text": "go to a recompression chamber"
+        },
+        {
+          "id": 5,
+          "text": "take a single aspirin"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 4,
+      "text": "First aid for DCI requires _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "a twin set"
+        },
+        {
+          "id": 2,
+          "text": "hot drinks"
+        },
+        {
+          "id": 3,
+          "text": "a pony cylinder"
+        },
+        {
+          "id": 4,
+          "text": "an oxygen administration kit"
+        }
+      ],
+      "correctAnswerIds": [
+        4
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 5,
+      "text": "You can minimise the risk of oxygen toxicity by _______. Tick all that apply.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "never exceeding your MOD"
+        },
+        {
+          "id": 2,
+          "text": "using an AS"
+        },
+        {
+          "id": 3,
+          "text": "breathing oxygen at the surface"
+        },
+        {
+          "id": 4,
+          "text": "buddy diving"
+        },
+        {
+          "id": 5,
+          "text": "analysing your Nitrox mix before use"
+        }
+      ],
+      "correctAnswerIds": [
+        1,
+        5
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 6,
+      "text": "You can minimise the risk of DCI by _______. Tick all that apply.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "never exceeding your MOD"
+        },
+        {
+          "id": 2,
+          "text": "using tables or computers to plan dives"
+        },
+        {
+          "id": 3,
+          "text": "following good dive practice"
+        },
+        {
+          "id": 4,
+          "text": "using an AS"
+        },
+        {
+          "id": 5,
+          "text": "using a suitable Nitrox mix"
+        }
+      ],
+      "correctAnswerIds": [
+        2,
+        3,
+        5
+      ],
+      "isMultipleChoice": true
+    },
+    {
+      "id": 7,
+      "text": "Which of the following describes the ideas behind the Incident Pit?",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Deep diving is very dangerous"
+        },
+        {
+          "id": 2,
+          "text": "Build open water experience progressively"
+        },
+        {
+          "id": 3,
+          "text": "Resolving an underwater problem early prevents more serious consequences"
+        },
+        {
+          "id": 4,
+          "text": "Don’t bother with minor problems, they often sort themselves out"
+        },
+        {
+          "id": 5,
+          "text": "Expose yourself to situations where you will panic, so that you can learn to control it"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 8,
+      "text": "An AS takes the form of _______",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Your buddy's octopus rig"
+        },
+        {
+          "id": 2,
+          "text": "A pony cylinder with regulator"
+        },
+        {
+          "id": 3,
+          "text": "Twin regulators on a single cylinder"
+        },
+        {
+          "id": 4,
+          "text": "Twin cylinders with separate regulators"
+        },
+        {
+          "id": 5,
+          "text": "Any of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 9,
+      "text": "On reaching the surface after an AS ascent the rescuer's and casualty's BCs should be _______",
+      "answers": [
+        {
+          "id": 1,
+          "text": "removed"
+        },
+        {
+          "id": 2,
+          "text": "deflated"
+        },
+        {
+          "id": 3,
+          "text": "inflated"
+        },
+        {
+          "id": 4,
+          "text": "left alone"
+        }
+      ],
+      "correctAnswerIds": [
+        3
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 10,
+      "text": "If an'out of gas'situation occurs you should _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "continue the dive using an AS"
+        },
+        {
+          "id": 2,
+          "text": "make a controlled AS ascent"
+        },
+        {
+          "id": 3,
+          "text": "make a free ascent"
+        },
+        {
+          "id": 4,
+          "text": "perform a controlled buoyant lift"
+        },
+        {
+          "id": 5,
+          "text": "ditch the casualty’s weights underwater"
+        }
+      ],
+      "correctAnswerIds": [
+        2
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 11,
+      "text": "After you have successfully brought a casualty to the surface and made them buoyant _______.",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Give a distress signal"
+        },
+        {
+          "id": 2,
+          "text": "Tow the casualty to the shore as quickly as possible"
+        },
+        {
+          "id": 3,
+          "text": "Wait for the Dive Manager to organise a rescue"
+        },
+        {
+          "id": 4,
+          "text": "Swim to safety and leave others to attend to the casualty"
+        },
+        {
+          "id": 5,
+          "text": "Swim ashore and phone the emergency services"
+        }
+      ],
+      "correctAnswerIds": [
+        1
+      ],
+      "isMultipleChoice": false
+    },
+    {
+      "id": 12,
+      "text": "Accidents while diving are best prevented by. . .",
+      "answers": [
+        {
+          "id": 1,
+          "text": "Dive planning and anticipating conditions"
+        },
+        {
+          "id": 2,
+          "text": "Training, practise and experience"
+        },
+        {
+          "id": 3,
+          "text": "Diving within your capabilities"
+        },
+        {
+          "id": 4,
+          "text": "Monitoring yourself and buddy during a dive"
+        },
+        {
+          "id": 5,
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswerIds": [
+        5
+      ],
+      "isMultipleChoice": false
+    }
+  ]
+}
