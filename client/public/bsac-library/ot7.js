@@ -191,8 +191,8 @@ module.exports = {
         1
       ],
       [
-        "ground swellllll",
-        "swelllllll is only encountered in the sea",
+        "ground swell",
+        "swell is only encountered in the sea",
         0,
         0,
         1
@@ -396,7 +396,7 @@ module.exports = {
       [
         "Undertow",
         "Not just that",
-        1,
+        0,
         100,
         1
       ],

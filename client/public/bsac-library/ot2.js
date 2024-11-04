@@ -6,7 +6,7 @@ module.exports = {
   "When performing calculations for diving operations it is normal to use _______?",
   "What is the total absolute pressure at a depth of 25 m?",
   "The greatest pressure/volume change occurs between which depths?",
-  "What is the term used for divers' breathing gases containing more than 21% oxygen?",
+  "What is the term used for divers'breathing gases containing more than 21% oxygen?",
   "Mask squeeze can be prevented by _______?",
   "The golden rule when ascending is _______?",
   "A diver uses a _______ to maintain neutral buoyancy throughout the dive.",

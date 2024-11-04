@@ -34,7 +34,6 @@ function fixContent(text) {
   // Fix spelling mistakes
   const spellingFixes = {
     'superceded': 'superseded',
-    'swel': 'swell',
     'committment': 'commitment',
     'reccommend': 'recommend',
     'occured': 'occurred',

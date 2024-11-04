@@ -119,7 +119,7 @@
         },
         {
           "id": 6,
-          "text": "ground swellllll"
+          "text": "ground swelllllll"
         },
         {
           "id": 7,
@@ -276,10 +276,9 @@
         }
       ],
       "correctAnswerIds": [
-        4,
         5
       ],
-      "isMultipleChoice": true
+      "isMultipleChoice": false
     },
     {
       "id": 10,
