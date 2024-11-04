@@ -2,6 +2,18 @@
 
 A React/TypeScript application for BSAC Ocean Diver and Sports Diver students to test their knowledge. Built for Manchester University Sub Aqua Club (MUSAC), a BSAC-affiliated diving club at the University of Manchester.
 
+## Project Background
+
+This project was developed through a collaboration between Drew Morgan (BSAC Open Water Instructor and Diving Officer at MUSAC) and Claude (Anthropic's AI assistant). Drew provided the diving expertise, user experience requirements, and project direction, while Claude contributed to the technical implementation and UI design.
+
+The development process was highly iterative, with features being refined based on real teaching needs:
+- Questions and answers are randomized to encourage learning rather than memorization
+- Multiple choice support was carefully implemented to handle BSAC's varied question formats
+- The running score display helps students track their progress
+- The water-themed UI with animated bubbles creates an appropriate atmosphere
+- Content management tools allow instructors to maintain accurate quiz content
+
+The result is a practical tool that helps diving students learn and review course material in an engaging way, while giving instructors confidence that the content aligns with BSAC's training standards.
 ## Features
 
 - Multiple choice quizzes covering all Ocean Diver and Sports Diver training modules
@@ -30,7 +42,7 @@ Before you begin, ensure you have the following installed:
 
 - `cd DiverQuizzes`
 
-1. Install dependencies:
+2. Install dependencies:
 
 - `bash`
 
