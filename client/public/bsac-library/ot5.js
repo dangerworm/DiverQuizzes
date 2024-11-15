@@ -775,35 +775,35 @@ module.exports = {
     "0",
     [
       [
-        "<img src=\"flagA. Gif\" alt=\"flagA. Gif\" title=\"flagA\" width=\"80\" height=\"79\"></img>",
+        "<img src=\"flagA. gif\" alt=\"flagA. gif\" title=\"flagA\" width=\"80\" height=\"79\"></img>",
         "Correct. You have selected International code flag Alpha which means'I have a diver down; keep well clear at slow speed'",
         1,
         100,
         1
       ],
       [
-        "<img src=\"flagB. Gif\" alt=\"flagB. Gif\" title=\"flagB\" width=\"80\" height=\"79\"></img>",
+        "<img src=\"flagB. gif\" alt=\"flagB. gif\" title=\"flagB\" width=\"80\" height=\"79\"></img>",
         "Wrong. (b) is flag Bravo which means'I am taking in, discharging, or carrying dangerous goods'",
         0,
         0,
         1
       ],
       [
-        "<img src=\"flagH. Gif\" alt=\"flagH. Gif\" title=\"flagH\" width=\"80\" height=\"80\"></img>",
+        "<img src=\"flagH. gif\" alt=\"flagH. gif\" title=\"flagH\" width=\"80\" height=\"80\"></img>",
         "Wrong. (c) is flag Hotel which means'I have a pilot on board'",
         0,
         0,
         1
       ],
       [
-        "<img src=\"flagM. Gif\" alt=\"flagM. Gif\" title=\"flagM\" width=\"80\" height=\"80\"></img>",
+        "<img src=\"flagM. gif\" alt=\"flagM. gif\" title=\"flagM\" width=\"80\" height=\"80\"></img>",
         "Wrong. (d) is flag Mike which means'My vessel is stopped and making no way through the water'",
         0,
         0,
         1
       ],
       [
-        "<img src=\"flagV. Gif\" alt=\"flagV. Gif\" title=\"flagV\" width=\"80\" height=\"80\"></img>",
+        "<img src=\"flagV. gif\" alt=\"flagV. gif\" title=\"flagV\" width=\"80\" height=\"80\"></img>",
         "Wrong. (e) is flag Victor which means'I require assistance'",
         0,
         0,

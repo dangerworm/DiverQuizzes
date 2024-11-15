@@ -553,23 +553,23 @@
       "answers": [
         {
           "id": 1,
-          "text": "<img src=\"flagA. Gif\" alt=\"flagA. Gif\" title=\"flagA\" width=\"80\" height=\"79\"></img>"
+          "text": "<img src=\"flagA.gif\" alt=\"flagA.gif\" title=\"flagA\" width=\"80\" height=\"79\"></img>"
         },
         {
           "id": 2,
-          "text": "<img src=\"flagB. Gif\" alt=\"flagB. Gif\" title=\"flagB\" width=\"80\" height=\"79\"></img>"
+          "text": "<img src=\"flagB.gif\" alt=\"flagB.gif\" title=\"flagB\" width=\"80\" height=\"79\"></img>"
         },
         {
           "id": 3,
-          "text": "<img src=\"flagH. Gif\" alt=\"flagH. Gif\" title=\"flagH\" width=\"80\" height=\"80\"></img>"
+          "text": "<img src=\"flagH.gif\" alt=\"flagH.gif\" title=\"flagH\" width=\"80\" height=\"80\"></img>"
         },
         {
           "id": 4,
-          "text": "<img src=\"flagM. Gif\" alt=\"flagM. Gif\" title=\"flagM\" width=\"80\" height=\"80\"></img>"
+          "text": "<img src=\"flagM.gif\" alt=\"flagM.gif\" title=\"flagM\" width=\"80\" height=\"80\"></img>"
         },
         {
           "id": 5,
-          "text": "<img src=\"flagV. Gif\" alt=\"flagV. Gif\" title=\"flagV\" width=\"80\" height=\"80\"></img>"
+          "text": "<img src=\"flagV.gif\" alt=\"flagV.gif\" title=\"flagV\" width=\"80\" height=\"80\"></img>"
         }
       ],
       "correctAnswerIds": [

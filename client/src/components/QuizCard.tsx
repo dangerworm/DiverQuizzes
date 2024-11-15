@@ -1,6 +1,6 @@
-import React from 'react';
-import { Question } from '../types/Quiz';
-import { motion, AnimatePresence } from 'framer-motion';
+import React from "react";
+import { Question } from "../types/Quiz";
+import { motion, AnimatePresence } from "framer-motion";
 
 interface QuizCardProps {
   question: Question;
@@ -32,20 +32,19 @@ const QuizCard: React.FC<QuizCardProps> = ({
   };
 
   const getAnswerClassName = (answerId: number): string => {
-    const baseClass = 'answer-button';
+    const baseClass = "answer-button";
     const isSelected = isAnswerSelected(answerId);
-    
+
     if (!showFeedback) {
-      return `${baseClass}${isSelected ? ' selected' : ''}`;
+      return `${baseClass}${isSelected ? " selected" : ""}`;
     }
-    
-    return `${baseClass}${isSelected ? ' incorrect' : ''}`;
+
+    return `${baseClass}${isSelected ? " incorrect" : ""}`;
   };
 
   // Calculate current score percentage (only for answered questions)
-  const currentScore = currentIndex > 0 
-    ? Math.round((correctAnswers / currentIndex) * 100) 
-    : 0;
+  const currentScore =
+    currentIndex > 0 ? Math.round((correctAnswers / currentIndex) * 100) : 0;
 
   return (
     <AnimatePresence mode="wait">
@@ -62,9 +61,7 @@ const QuizCard: React.FC<QuizCardProps> = ({
             Question {currentIndex + 1} of {totalQuestions}
           </div>
           {currentIndex > 0 && (
-            <div className="score-counter">
-              Score: {currentScore}%
-            </div>
+            <div className="score-counter">Score: {currentScore}%</div>
           )}
         </div>
         <h2 className="question-text">{question.text}</h2>
@@ -79,14 +76,28 @@ const QuizCard: React.FC<QuizCardProps> = ({
               onClick={() => !showFeedback && onAnswerSelect(answer.id)}
               disabled={showFeedback}
             >
-              {answer.text}
+              {answer.text.includes("<img") ? (
+                <div
+                  dangerouslySetInnerHTML={{
+                    __html: answer.text.replace(
+                      /src="([^"]+)"/,
+                      `src="${process.env.PUBLIC_URL}/images/$1"`
+                    ).replace(
+                      /title=".+" /,
+                      ""
+                    ),
+                  }}
+                />
+              ) : (
+                answer.text
+              )}
             </button>
           ))}
         </div>
         {showFeedback && (
           <div className="feedback-message">
             <p>
-              {question.isMultipleChoice 
+              {question.isMultipleChoice
                 ? "That's not the correct combination. Would you like to try again?"
                 : "That's not correct. Would you like to try again?"}
             </p>
@@ -105,4 +116,4 @@ const QuizCard: React.FC<QuizCardProps> = ({
   );
 };
 
-export default QuizCard; 
+export default QuizCard;
