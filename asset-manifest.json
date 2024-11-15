@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DiverQuizzes/static/css/main.3c483f75.css",
-    "main.js": "/DiverQuizzes/static/js/main.373dc337.js",
+    "main.js": "/DiverQuizzes/static/js/main.bb614238.js",
     "index.html": "/DiverQuizzes/index.html",
     "main.3c483f75.css.map": "/DiverQuizzes/static/css/main.3c483f75.css.map",
-    "main.373dc337.js.map": "/DiverQuizzes/static/js/main.373dc337.js.map"
+    "main.bb614238.js.map": "/DiverQuizzes/static/js/main.bb614238.js.map"
   },
   "entrypoints": [
     "static/css/main.3c483f75.css",
-    "static/js/main.373dc337.js"
+    "static/js/main.bb614238.js"
   ]
 }
