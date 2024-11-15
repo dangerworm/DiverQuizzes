@@ -10,7 +10,7 @@ module.exports = {
   "When the tide is rising it is said to be on the _______.",
   "The period when a tidal current slows down and reverses is known as _______.",
   "Which of the following are reasons why static sites are best dived at slack water?",
-  "Ground swell is a backwards and forwards or side_______to_______side motion felt on the seabed caused by _______?",
+  "Ground swell is a backwards and forwards or side-to-side motion felt on the seabed caused by _______?",
   "Which of the following can lead to reduced underwater visibility? Check all that apply.",
   "Which of the following significantly affects water temperature? Check all that apply.",
   "What causes the water temperature to be higher on the west coast of the UK than on the east?",
