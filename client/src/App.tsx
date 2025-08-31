@@ -33,7 +33,6 @@ const App: React.FC = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [randomizedQuestions, setRandomizedQuestions] = useState<Question[]>([]);
   const [showAnswerFeedback, setShowAnswerFeedback] = useState(false);
-  const [correctAnswers, setCorrectAnswers] = useState(0);
   const [randomizedAnswers, setRandomizedAnswers] = useState<RandomizedAnswer[][]>([]);
 
   useEffect(() => {
@@ -103,7 +102,6 @@ const App: React.FC = () => {
       setCurrentQuestionIndex(0);
       setIsComplete(false);
       setDirection(0);
-      setCorrectAnswers(0);
     }
   };
 
@@ -158,7 +156,6 @@ const App: React.FC = () => {
     }
 
     if (isCorrect) {
-      setCorrectAnswers(prev => prev + 1);
     }
 
     setShowAnswerFeedback(false);
@@ -206,6 +203,14 @@ const App: React.FC = () => {
       setSelectedCourse(null);
     }
   };
+
+  const correctAnswersCount = userAnswers.reduce((count, answers, index) => {
+    const question = randomizedQuestions[index];
+    if (answers && answers.length > 0 && question && checkAnswer(answers, question)) {
+        return count + 1;
+    }
+    return count;
+  }, 0);
 
   const renderBrandHeader = () => (
     <div className="brand-header">
@@ -370,7 +375,7 @@ const App: React.FC = () => {
           showFeedback={showAnswerFeedback}
           onTryAgain={handleTryAgain}
           onContinue={handleNext}
-          correctAnswers={correctAnswers}
+          correctAnswers={correctAnswersCount}
         />
 
         <div className="navigation-buttons">
